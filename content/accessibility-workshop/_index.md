@@ -18,15 +18,17 @@ data-background-opacity = "0.3"
 
 +++
 
-<!-- {{< slide template="bg-dark" >}} -->
-<!-- {{< slide >}} -->
-{{< slide template="bg-dark" id="home"  background-image="img/igor-rodrigues-1412789-unsplash.jpg" data-background-opacity="0.3">}}
+{{< slide template="bg-dark" id="home"  background-image="img/portada.png" background-opacity="0.8">}}
+
+Past, present and future of
 
 ## Accessible Zaragoza study case
 
-### Collaborative mapping for the integration of impaired people.
+Improving handicapped people's autonomy through collaborative mapping
 
-<small>Carlos Cámara | Javier Corzán | Javier Claver </small>
+
+
+<small>Carlos Cámara | Javier Corzán | Javier Claver | Miguel Sevilla | Ana Ruiz</small>
 
 {{% note %}}
 You found the speaker notes!
@@ -46,9 +48,8 @@ You found the speaker notes!
 
 1. Extending the research to **urban scale**
   1. From buildings to cities
-2. Link the project with prior research on (social) **exclusion and urban morphology**
-  1. Right to the city (Lefebvre, 168; Harvey 2008)
-  2. Spatial Justice (Soja, 2010)
+2. Focusing on Service-Learning dimension
+2. Connecting (unconciously) with our prior research on (social) **exclusion and urban morphology**.
 
 {{% /section %}}
 
@@ -56,20 +57,72 @@ You found the speaker notes!
 
 ## The problem(s)
 
-People with disabilities cannot lead a complete life because of two types of exclusion.
+People with disabilities cannot be fully auonomous when moving in a city (especially in an unknown city). Two types of exclusion:
 
-{{< frag c="* Physical exclusion" >}}
-{{< frag c="* Technologycal" >}}
+* Physical: urban design
+* Technological: specialized apps/services
 
 ---
 
-
+{{< slide background-image="img/esquema-colores.png" background-opacity="0.2">}}
 
 ## Our Goal
 
-![](img/esquema-colores.png)
+<!-- ![](img/esquema-colores.png) -->
 
-* Create a pilot, capable of:
+The creation of a **pilot**
+
+* Map capable of:
   - Assessing Zaragoza in terms of accessibility
   - Providing routing calculations for disabled people in order to improve their authonomy
 - Test a protocol/methodology
+
+---
+## Our Principles
+
+---
+
+{{% section %}}
+
+## Open and collaborative project
+
+---
+
+### Political decision:
+  - Results should be used and shared by anyone if they are to be of any use
+  - Citizenship has to be part of it
+
+---
+
+### Pragmatical decision:
+  - Overcome our own limitations (staff, infrastructure)
+  - Reduce setup time
+
+---
+
+## Open/Collaborative
+
+* Political/pragmatical decision
+*
+
+
+---
+
+{{< slide template="bg-dark" background-image="img/osm-zgz.png" background-opacity="0.8">}}
+
+## OpenStreetMap
+
+Use the right arrow or swipe right to continue.
+
+{{% /section %}}
+
+---
+
+Collaboration with Mapeado Colaborativo
+
+Discapacitados Sin Fronteras
+
+Others
+
+* Laura Moya
+* Ganchillo social
