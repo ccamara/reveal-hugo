@@ -71,7 +71,7 @@ Identified some
 
 ## Map 1
 
-<iframe height="500" width="100%" src="/mapbox.html"></iframe>
+<iframe height="500" width="100%" src="https://api.mapbox.com/styles/v1/alu22968/cjw0hwbfg04w31cqgtblgydkb.html?fresh=true&title=true&access_token=pk.eyJ1IjoiYWx1MjI5NjgiLCJhIjoiY2p0OG5haTEyMDhnbDQ5cGJncnE2cjVvYSJ9.IA9D1YlPXi74F52ymwTtAQ#15.1/41.655402/-0.878104/0"></iframe>
 
 
 ---
@@ -84,6 +84,10 @@ Identified some
 ---
 
 ## Infography
+
+---
+
+## Assessing Zaragoza's neighbours
 
 ---
 
