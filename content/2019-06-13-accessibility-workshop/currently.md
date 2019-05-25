@@ -25,27 +25,18 @@ weight = 20
 
 ---
 
-At School of Architecture and Technology:
-
 ## New Focus to the theme
 
 * Pivot from _Service-Learning_ programmes to _Research programmes_.
-* {{% fragment %}}Link the project with prior research on (social) **exclusion and urban morphology**
+* Link the project with prior research on (social) **exclusion and urban morphology**
   1. Right to the city (Lefebvre, 168; Harvey 2008)
-  2. Spatial Justice (Soja, 2010){{% /fragment %}}
-* {{% fragment %}}Improve data gathering
-  - Under the lead/expertise of [Mapeado Colaborativo](https://mapcolabora.org) {{% /fragment %}}
-
+  2. Spatial Justice (Soja, 2010)
 
 
 {{% note %}}
 Focus on the imbrications between urban design/form and exclusion/inclusion -> our real expertise.
 
 {{% /note %}}
-
----
-
-
 
 {{% /section %}}
 
@@ -90,7 +81,7 @@ Identified some
 
 ## Summary/comparison of regulation
 
-<div class=bg-caption>Infography summarising situations described in accessibility regulations, by Javier Corzán.</div>
+<div class=bg-caption>Infographic summarising situations described in accessibility regulations, by Javier Corzán.</div>
 
 ---
 
@@ -107,11 +98,28 @@ Identified some
 
 ## The future...
 
+* Improve data gathering
+  - Under the lead/expertise of [Mapeado Colaborativo](https://mapcolabora.org)
+
 ---
+{{% section %}}
 
 {{< slide template="bg-dark" background-image="/img/thanks/t.hanks.gif" background-opacity="0.5">}}
 
-Zaccesible research staff:
+---
+
+{{< slide template="bg-dark" background-image="/img/thanks/t.hanks.gif" background-opacity="0.2">}}
+
+* To you, for your attention
+* AOS Research Group and Universidad San Jorge, for their support and financing.
+* [Zaccesible research staff](https://zaccesible.usj.es/about/#miembros-del-proyecto) (present, and former)
+* [Mapeado Colaborativo](https://mapcolabora.org), for their support.
+* All volunteers and associations, for their help in data collection.
+* Colegio de Arquitectos de Aragón, for being such great hosts.
+
+
+{{% note %}}
+[Zaccesible research staff](https://zaccesible.usj.es/about/#miembros-del-proyecto):
 
 * Carlos Cámara-Menoyo (USJ)
 * Ana Ruiz-Varona (USJ)
@@ -119,7 +127,11 @@ Zaccesible research staff:
 * Javier Corzán (Research Assistant)
 * Javier Claver (Intern)
 
-Previous staff:
+#### Previous staff:
 
 * César Canalís (Research Assistant)
 * Lourdes Pérez (Intern)
+
+{{% /note %}}
+
+{{% /section %}}

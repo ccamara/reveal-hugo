@@ -3,17 +3,19 @@ title = "Accessible Zaragoza"
 description = ""
 outputs = ["Reveal"]
 
+
 [reveal_hugo]
 # theme = "white"
 custom_theme = "usj.scss"
 custom_theme_compile = true
+plugins = ["plugin/gallery/gallery.plugin.js"]
 
 # custom_theme = "css/usj.css"
 # custom_theme_compile = false
 
 [logo]
 src = "/img/usj/logo-usj-negro.png"
-alt = "GitHub logo with Octocat"
+alt = "Universidad San Jorge Logo"
 
 [reveal_hugo.templates.bg-dark]
 class = "bg-dark"
@@ -43,7 +45,6 @@ Improving handicapped people's autonomy through collaborative mapping
 {{% note %}}
 You found the speaker notes!
 {{% /note %}}
-
 
 ---
 
@@ -135,6 +136,10 @@ The wikipedia of the maps
 
 * **Crowdsorced approach** (data gathering, standarisation)
 * **Sharing data** (legally + technically): return to society
+
+{{% note %}}
+More specifically, this principle led us to use OSM.
+{{% /note %}}
 
 ---
 

@@ -22,7 +22,7 @@ Some procedures, accomplishments and failures between 2016 and 2018
 
 ## Mapping parties*
 
-* 4 Mapping parties
+* 5 Mapping parties
 * Volunteers doing specific Fieldwork
 
 
@@ -32,17 +32,13 @@ Some procedures, accomplishments and failures between 2016 and 2018
 
 ---
 
-{{< slide template="bg-dark" background-image="img/pavimento tactil-bordillo-02.jpeg" background-opacity="0.8">}}
-
-<div class=bg-caption>Students from USJ taking field notes about kerbs and tactile paving in a pedestrian crossing. Credits: Héctor Ochoa</div>
-
-
----
-
-{{< slide template="bg-dark" background-image="img/mapping-party-osm.jpg" background-opacity="0.8">}}
-
-<div class=bg-caption>Volunteers uploading fieldwork data into OSM. Credits: Mapcolabora.</div>
-
+<ul class="gallery" data-iterations="2" data-interval="2" data-mode="full-screen">
+  <li><img src="img/pavimento tactil-bordillo-02.jpeg" alt="Students from USJ taking field notes about kerbs and tactile paving in a pedestrian crossing. Credits: Héctor Ochoa"></li>
+  <li><img src="img/arrabal-02.png" alt="Mapping party in Arrabal (2016-07-05)"></li>
+  <li><img src="img/photo_2017-03-27_09-51-11.jpg" alt="Mapping party in Las Delicias"></li>
+  <li><img src="img/_aragon22507930_a4c24fc0.jpg" alt="Magdalena. Credits: Guillermo Mestre"></li>
+  <li><img src="img/mapping-party-osm.jpg" alt="Volunteers uploading fieldwork data into OSM. Credits: Mapcolabora."></li>
+</ul>
 
 ---
 
@@ -62,7 +58,7 @@ Some procedures, accomplishments and failures between 2016 and 2018
 
 
 {{% note %}}
-2/4 Mapping parties were also part of Service Learning Activities for students from Urban Studies at USJ's School of Architecture and Technology.
+2/5 Mapping parties were also part of Service Learning Activities for students from Urban Studies at USJ's School of Architecture and Technology.
 {{% /note %}}
 
 
@@ -101,17 +97,22 @@ Some procedures, accomplishments and failures between 2016 and 2018
 
 {{% section %}}
 
+{{< slide background-iframe="https://ccamara.carto.com/viz/472c495c-6238-4fb5-851e-93b844bc647c/embed_map" >}}
+
 ## Visualization
 
 2 online maps: for **visually impaired** people and for **mobility disabilities**.
 
+
+
+
 ---
 
-<iframe width='100%' height='520' frameborder='0' src='https://ccamara.carto.com/viz/472c495c-6238-4fb5-851e-93b844bc647c/embed_map' allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
+{{< slide background-iframe="https://ccamara.carto.com/viz/472c495c-6238-4fb5-851e-93b844bc647c/embed_map" >}}
 
 ---
 
-<iframe width='100%' height='520' frameborder='0' src='https://ccamara.carto.com/viz/a11856af-f34f-4862-9607-0486ac106fa6/embed_map' allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
+{{< slide background-iframe="https://ccamara.carto.com/viz/a11856af-f34f-4862-9607-0486ac106fa6/embed_map" >}}
 
 {{% /section %}}
 
@@ -132,8 +133,6 @@ Some procedures, accomplishments and failures between 2016 and 2018
 {{< slide background-image="img/heraldo.jpg" background-opacity="0.8">}}
 
 <div class=bg-caption>Newspaper news about a Mapping party (Heraldo, 2017)</div>
-
----
 
 {{% /section %}}
 
@@ -183,8 +182,6 @@ Paradoxically, the failed to achieve our first goal.
 * Some keys/values are limited
 * Difficulties in tracing/crediting the work
 
-{{% /section %}}
-
 ---
 
 ## Overwhelming success
@@ -195,3 +192,5 @@ Could not attend to everyone who has shown interest on the project:
 * Public Administration
 * Neighbourhood associations
 * Activists
+
+{{% /section %}}
