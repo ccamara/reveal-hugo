@@ -32,6 +32,14 @@ Some procedures, accomplishments and failures between 2016 and 2018
 
 ---
 
+{{< slide class="bg-dark" >}}
+
+
+## Mapping parties*
+
+* 5 Mapping parties
+* Volunteers doing specific Fieldwork
+
 <ul class="gallery" data-iterations="2" data-interval="2" data-mode="full-screen">
   <li><img src="img/pavimento tactil-bordillo-02.jpeg" alt="Students from USJ taking field notes about kerbs and tactile paving in a pedestrian crossing. Credits: Héctor Ochoa"></li>
   <li><img src="img/arrabal-02.png" alt="Mapping party in Arrabal (2016-07-05)"></li>
@@ -155,7 +163,8 @@ Some procedures, accomplishments and failures between 2016 and 2018
 ---
 {{% section %}}
 
-## Failures/Errors
+## Limitations
+
 
 ---
 
@@ -165,7 +174,7 @@ Paradoxically, the failed to achieve our first goal.
 
 ---
 
-## About the visualisation
+## About the visualization
 
 * Maps are not useful
   - Not clear
@@ -176,9 +185,9 @@ Paradoxically, the failed to achieve our first goal.
 
 ## About OSM
 
-* Sidewalks do not always form a good network
+* Sidewalks do not always conform a good network
 * Difficult to add information if you are not used to it
-* Lack of total control -> Uncertainity (about data)
+* Lack of total control -> Uncertainty (about data)
 * Some keys/values are limited
 * Difficulties in tracing/crediting the work
 

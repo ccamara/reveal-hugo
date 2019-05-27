@@ -29,7 +29,7 @@ $selectionBackgroundColor: #26351C;
   line-height: 1.3em;
 }
 
-section.has-dark-background {
+section.has-dark-background, .bg-dark {
 	&, h1, h2, h3, h4, h5, h6 {
 		color: #fff;
     text-shadow: rgba(0, 0, 0, 0.4) 0px 3px 3px;
@@ -47,6 +47,12 @@ section.has-dark-background {
 
 
 // Custom sections.
+.bg-dark {
+	&, h1, h2, h3, h4, h5, h6 {
+		color: #fff;
+    text-shadow: rgba(0, 0, 0, 0.4) 0px 3px 3px;
+	}
+}
 
 .bg-caption {
   position: fixed;

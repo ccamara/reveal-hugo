@@ -78,7 +78,7 @@ New people, new approach. New opportunities.
 1. Extending the research to **urban scale**
   1. From buildings to cities
 2. Focusing on Service-Learning dimension
-2. Connecting (unconciously) with our prior research on (social) **exclusion and urban morphology**.
+2. Connecting (unconsciously) with our prior research on (social) **exclusion and urban morphology**.
 
 {{% /section %}}
 
@@ -86,14 +86,14 @@ New people, new approach. New opportunities.
 
 ## The problem(s)
 
-People with disabilities cannot be fully auonomous when moving in a city (especially in an unknown city). Two types of exclusion:
+People with disabilities cannot be fully autonomous when moving in a city (especially in an unknown city). Two types of exclusion:
 
 * Physical: urban design
 * Technological: specialized apps/services
 
 ---
 
-{{< slide background-image="img/esquema-colores.png" background-opacity="0.2">}}
+{{< slide background-image="img/esquema-colores-mudo.png" background-opacity="0.2" background-size="contain">}}
 
 ## Our Goal
 
@@ -103,7 +103,7 @@ The creation of a **pilot**
 
 * Map capable of:
   - Assessing Zaragoza in terms of accessibility
-  - Providing routing calculations for disabled people in order to improve their authonomy
+  - Providing routing calculations for disabled people in order to improve their autonomy
 - Test a protocol/methodology
 
 ---
@@ -134,7 +134,7 @@ The creation of a **pilot**
 
 The wikipedia of the maps
 
-* **Crowdsorced approach** (data gathering, standarisation)
+* **Crowdsorced approach** (data gathering, standardization)
 * **Sharing data** (legally + technically): return to society
 
 {{% note %}}
