@@ -28,6 +28,7 @@ weight = 20
 ## New Focus to the theme
 
 * Pivot from _Service-Learning_ programmes to _Research programmes_.
+* Enhance _citizen science_'s dimension.
 * Link the project with prior research on (social) **exclusion and urban morphology**
   1. Right to the city (Lefebvre, 168; Harvey 2008)
   2. Spatial Justice (Soja, 2010)

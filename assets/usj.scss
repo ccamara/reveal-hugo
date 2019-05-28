@@ -49,8 +49,8 @@ section.has-dark-background, .bg-dark {
 // Custom sections.
 .bg-dark {
 	&, h1, h2, h3, h4, h5, h6 {
-		color: #fff;
-    text-shadow: rgba(0, 0, 0, 0.4) 0px 3px 3px;
+		color: #fff !important;
+    text-shadow: rgba(0, 0, 0, 0.4) 0px 3px 3px !important;
 	}
 }
 

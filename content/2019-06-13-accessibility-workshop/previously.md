@@ -15,7 +15,7 @@ Some procedures, accomplishments and failures between 2016 and 2018
 ## Data Gathering
 
 
----
+<!-- ---
 
 {{< slide template="bg-dark" background-image="img/photo_2019-05-24_16-06-13.jpg" background-opacity="0.8">}}
 
@@ -25,10 +25,10 @@ Some procedures, accomplishments and failures between 2016 and 2018
 * 5 Mapping parties
 * Volunteers doing specific Fieldwork
 
-
 <small>* Organized by [Mapeado Colaborativo](https://mapcolabora.org)</small>
 
-<div class=bg-caption>First Mapping party in Las Armas (2016-07-05)</div>
+
+<div class=bg-caption>First Mapping party in Las Armas (2016-07-05)</div> -->
 
 ---
 
@@ -40,12 +40,14 @@ Some procedures, accomplishments and failures between 2016 and 2018
 * 5 Mapping parties
 * Volunteers doing specific Fieldwork
 
-<ul class="gallery" data-iterations="2" data-interval="2" data-mode="full-screen">
+<small>* Organized by [Mapeado Colaborativo](https://mapcolabora.org)</small>
+
+<ul class="gallery" data-iterations="1" data-interval="3" data-mode="full-screen">
   <li><img src="img/pavimento tactil-bordillo-02.jpeg" alt="Students from USJ taking field notes about kerbs and tactile paving in a pedestrian crossing. Credits: Héctor Ochoa"></li>
   <li><img src="img/arrabal-02.png" alt="Mapping party in Arrabal (2016-07-05)"></li>
-  <li><img src="img/photo_2017-03-27_09-51-11.jpg" alt="Mapping party in Las Delicias"></li>
-  <li><img src="img/_aragon22507930_a4c24fc0.jpg" alt="Magdalena. Credits: Guillermo Mestre"></li>
+  <li><img src="img/photo_2017-03-27_09-51-11.jpg" alt="Mapping party in Las Delicias + Service Learning Activity with Urban Studies students"></li>
   <li><img src="img/mapping-party-osm.jpg" alt="Volunteers uploading fieldwork data into OSM. Credits: Mapcolabora."></li>
+  <li><img src="img/_aragon22507930_a4c24fc0.jpg" alt="Mapping party at La Magdalena (2017-12-03): United Nations' International Day of Persons with Disabilities. Credits: Guillermo Mestre"></li>
 </ul>
 
 ---
