@@ -71,6 +71,13 @@ section.has-dark-background, .bg-dark {
   text-align: left;
 }
 
+.white-shadow {
+  &, h1, h2, h3, h4, h5, h6 {
+    text-shadow: rgba(235, 235, 235, 0.6) 0px 3px 3px !important;
+  }
+
+}
+
 // Theme template ------------------------------
 @import "reveal-js/css/theme/template/theme";
 // ---------------------------------------------
