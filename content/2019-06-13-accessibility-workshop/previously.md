@@ -96,7 +96,7 @@ Some procedures, accomplishments and failures between 2016 and 2018
 
 ---
 
-{{< slide template="bg-dark" background-image="img/IMG_20161203_102252.jpg" background-opacity="0.8">}}
+{{< slide template="bg-dark" background-image="img/mapping-party-arrabal.jpg" background-opacity="0.8" >}}
 
 <div class=bg-caption>Pedestrians are usually shocked by a group like this and asks us many questions and comments. It raises unplanned and interesting conversations.</div>
 
@@ -113,12 +113,6 @@ Some procedures, accomplishments and failures between 2016 and 2018
 
 2 online maps: for **visually impaired** people and for **mobility disabilities**.
 
-
-
-
----
-
-{{< slide background-iframe="https://ccamara.carto.com/viz/472c495c-6238-4fb5-851e-93b844bc647c/embed_map" >}}
 
 ---
 
@@ -146,7 +140,7 @@ Some procedures, accomplishments and failures between 2016 and 2018
 
 {{% /section %}}
 
----
+<!-- ---
 {{< slide template="bgibliographical-ref" >}}
 
 ## Publications
@@ -160,7 +154,7 @@ Some procedures, accomplishments and failures between 2016 and 2018
   <span class="Z3988" title="url_ver=Z39.88-2004&amp;ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzotero.org%3A2&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Adissertation&amp;rft.title=Movilidad%20urbana%20e%20Informaci%C3%B3n%20Geogr%C3%A1fica%20Voluntaria%3A%20Accesibilidad%20en%20Las%20Fuentes.&amp;rft.aufirst=Ignacio&amp;rft.aulast=Orte%20Sierra&amp;rft.au=Ignacio%20Orte%20Sierra&amp;rft.au=Miguel%20Sevilla%20Callejo&amp;rft.date=2018&amp;rft.tpages=48&amp;rft.language=ES"></span>
   <div class="csl-entry">Ruiz, A., Temes-Córdovez, R. R., y Cámara-Menoyo, C. (2018). Accesibilidad y tecnologías de información colaborativas. Cartografías para una ciudad inclusiva. <i>Bitácora Urbano Territorial</i>, <i>28</i>(1), 155-162. <a href="https://doi.org/10.15446/bitacora.v28n1.68316">https://doi.org/10.15446/bitacora.v28n1.68316</a></div>
   <span class="Z3988" title="url_ver=Z39.88-2004&amp;ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzotero.org%3A2&amp;rft_id=info%3Adoi%2Fhttps%3A%2F%2Fdoi.org%2F10.15446%2Fbitacora.v28n1.68316&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Accesibilidad%20y%20tecnolog%C3%ADas%20de%20informaci%C3%B3n%20colaborativas.%20Cartograf%C3%ADas%20para%20una%20ciudad%20inclusiva&amp;rft.jtitle=Bit%C3%A1cora%20Urbano%20Territorial&amp;rft.volume=28&amp;rft.issue=1&amp;rft.aufirst=Ana&amp;rft.aulast=Ruiz&amp;rft.au=Ana%20Ruiz&amp;rft.au=Rafael%20R.%20Temes-C%C3%B3rdovez&amp;rft.au=Carlos%20C%C3%A1mara-Menoyo&amp;rft.date=2018-01-01&amp;rft.pages=155-162&amp;rft.spage=155&amp;rft.epage=162&amp;rft.issn=2027-145X&amp;rft.language=es"></span>
-</div>
+</div> -->
 
 ---
 {{% section %}}
@@ -172,14 +166,16 @@ Some procedures, accomplishments and failures between 2016 and 2018
 
 ## No routing calculations!
 
-Paradoxically, the failed to achieve our first goal.
+Paradoxically, we failed to (fully) achieve our first goal*.
+
+<div class=bg-caption>*Current ongoing research.</div>
 
 ---
 
 ## About the visualization
 
 * Maps are not useful
-  - Not clear
+  - Not clear/easy to understand
   - Not visible by their audience
   - Manually updated -> outdated
 
@@ -188,7 +184,7 @@ Paradoxically, the failed to achieve our first goal.
 ## About OSM
 
 * Sidewalks do not always conform a good network
-* Difficult to add information if you are not used to it
+* Difficult to add information if you are not used to it (technical skills)
 * Lack of total control -> Uncertainty (about data)
 * Some keys/values are limited
 * Difficulties in tracing/crediting the work

@@ -32,6 +32,7 @@ class = "bg-caption"
 
 {{< slide template="bg-dark" id="home"  background-image="img/portada.png" background-opacity="0.8">}}
 
+
 Past, present and future of
 
 ## Accessible Zaragoza study case
@@ -40,7 +41,7 @@ Improving handicapped people's autonomy through collaborative mapping
 
 
 
-<small>Carlos Cámara | Javier Corzán | Javier Claver | Miguel Sevilla | Ana Ruiz</small>
+<small>Carlos Cámara | Miguel Sevilla | Javier Corzán | Javier Claver | Ana Ruiz</small>
 
 {{% note %}}
 You found the speaker notes!
@@ -52,10 +53,8 @@ You found the speaker notes!
 
 ## Background (2016)
 
-- 1980 - Present: I am a nerd who loves *technology*, *maps*, *cities* and, particularly, their *social implications*.
-* 2016: **AOS Research group**: We had finished *Social Map Risk* (2013-2015) project about *Social inequities and urban morphology*.
-* **Private Sponsorship** by Bantierra-Fundación Adecco aimed to promote action research projects regarding disabilities.
-  - Replacement: Ángel Comeras (2010-2014) -> Carlos Cámara (2015-2016)
+* Since 2010 **Private Sponsorship** by Bantierra-Fundación Adecco, aimed to promote action research projects regarding disabilities.
+  - Replacement: Ángel Comeras (2010-2014) -> Carlos Cámara (2016)
 
 {{% note %}}
 Let me start with a confession/disclaimer: I am a nerd. A nerd who loves collaboration, technology, maps, cities and, more specifically their social dimension and how they relate to each other. This is important to understand everything else.
@@ -67,16 +66,9 @@ Being said that in 2015, I replaced Angel Comeras as main researcher at the Bant
 
 ---
 
-<iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1FEzze9hjnmD4oHz5vfp3mpTFQi7ek9TwzJPMtx1lXtU&font=Default&lang=en&hash_bookmark=true&initial_zoom=2&start_at_slide=3&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
+### New people, new approach:
 
----
-
-### Bantierra-Fundación Adecco sponsorhip (2016)
-
-New people, new approach. New opportunities.
-
-1. Extending the research to **urban scale**
-  1. From buildings to cities
+1. Extending the research to **urban scale** (Buildings -> cities)
 2. Focusing on Service-Learning dimension
 2. Connecting (unconsciously) with our prior research on (social) **exclusion and urban morphology**.
 
@@ -84,12 +76,18 @@ New people, new approach. New opportunities.
 
 ---
 
+{{< slide template="bg-dark" class="problems"  background-image="img/igor-rodrigues-1412789-unsplash-02.jpg" background-opacity="0.8">}}
+
 ## The problem(s)
 
-People with disabilities cannot be fully autonomous when moving in a city (especially in an unknown city). Two types of exclusion:
+People with disabilities cannot be fully autonomous when moving within a city (especially in an unknown city).
 
-* Physical: urban design
-* Technological: specialized apps/services
+Two types of exclusion:
+
+* **Physical**: urban design
+* **Technological**: (lack of) specialized apps/services
+
+<div class=bg-caption>Photo: Igor Rodrigues</div>
 
 ---
 
@@ -99,7 +97,7 @@ People with disabilities cannot be fully autonomous when moving in a city (espec
 
 <!-- ![](img/esquema-colores.png) -->
 
-The creation of a **pilot**
+The creation of a **pilot** to overcome those 2 problems.
 
 * Map capable of:
   - Assessing Zaragoza in terms of accessibility
@@ -128,7 +126,7 @@ The creation of a **pilot**
 
 ---
 
-{{< slide transition="zoom" template="bg-dark" background-image="img/osm-zgz.png" background-opacity="0.8">}}
+{{< slide template="bg-dark" background-image="img/osm-zgz.png" background-opacity="0.8">}}
 
 ## OpenStreetMap
 
@@ -143,9 +141,9 @@ More specifically, this principle led us to use OSM.
 
 ---
 
-{{< slide transition="zoom" >}}
+{{< slide template="bg-dark" background-image="img/IMG_20161203_102252.jpg" background-opacity="0.8">}}
 
-## Collaboration with other organisations
+## Teaming up with others
 
 * [Mapeado Colaborativo](https://mapcolabora.org) (Zaragoza Activa)
 * Association/Activism:
@@ -154,3 +152,5 @@ More specifically, this principle led us to use OSM.
   - Ganchillo Social
 - Administration:
   - Civic Centers
+
+<div class=bg-caption>Mapping party organized by Mapeado Colaborativo and Discapacitados Sin Fronteras Aragón.</div>
