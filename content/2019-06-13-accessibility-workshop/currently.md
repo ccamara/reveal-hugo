@@ -8,41 +8,6 @@ weight = 20
 
 ---
 
-{{% section %}}
-
-## New approach to the project
-
----
-
-{{< slide template="bg-dark" background-image="img/Standing On The Shoulder of Giants.jpg" background-opacity="0.4">}}
-
-## Create a modular approach
-
-- Vast and complex field
-  - No need for everyone to do everyhing -> stand on the shoulders of giants
-- Encourage collaboration
-  - Autonomous groups working in what they are best at
-
----
-
-## New Focus to the theme
-
-* Pivot from _Service-Learning_ programmes to _Research programmes_.
-* Enhance _citizen science_'s dimension.
-* Link the project with prior research on (social) **exclusion and urban morphology**
-  1. Right to the city (Lefebvre, 168; Harvey 2008)
-  2. Spatial Justice (Soja, 2010)
-
-
-{{% note %}}
-Focus on the imbrications between urban design/form and exclusion/inclusion -> our real expertise.
-
-{{% /note %}}
-
-{{% /section %}}
-
----
-
 
 ## What are we working now (2019-...)
 
@@ -111,26 +76,40 @@ Zaccesible wishlist
 {{% section %}}
 
 
-{{< slide background-iframe="/mapbox.html" >}}
+{{< slide background-iframe="/mapbox-protanopia-deuteranopia.html" >}}
+
 
 ## Custom base maps
 
+Protanopia and Deuteranopia
+
+{{% note %}}
+
+* Combination red-yellow-green soft-blue allows them an adequate and understandable visualization.
+* Font that improves readibility for the users with visual disability.  -> typeface designed by American Printing House for the Blind, inc.
+
+{{% /note %}}
+
 
 ---
 
-## Map 1
+{{< slide background-iframe="/mapbox-tritanopia.html" >}}
 
-<iframe height="500" width="100%" src="https://api.mapbox.com/styles/v1/alu22968/cjw0hwbfg04w31cqgtblgydkb.html?fresh=true&title=true&access_token=pk.eyJ1IjoiYWx1MjI5NjgiLCJhIjoiY2p0OG5haTEyMDhnbDQ5cGJncnE2cjVvYSJ9.IA9D1YlPXi74F52ymwTtAQ#15.1/41.655402/-0.878104/0"></iframe>
+Tritanopia
 
+{{% note %}}
 
----
+* black and white degraded depending on the use, making it easier for the user to read.
+* Font: OpenDyslexic
 
-## Map2
-
+{{% /note %}}
 
 {{% /section %}}
 
 ---
+
+{{< slide template="bg-dark" background-image="img/stats.png" background-opacity="0.5">}}
+
 
 ## Assessing Zaragoza's neighbours
 
@@ -140,13 +119,66 @@ Zaccesible wishlist
 
 ---
 
-{{< slide template="bg-dark" background-image="img/back-to-future-01.webp" background-opacity="0.5">}}
+{{< slide id="future" template="bg-dark" background-image="img/back-to-future-01.webp" background-opacity="0.5">}}
 
 
 ## The future...
 
-* Improve data gathering
-  - Under the lead/expertise of [Mapeado Colaborativo](https://mapcolabora.org)
+---
+
+## Keep on with good work
+
+* Mapping parties
+  - Awareness raising
+  - Empowering
+  - Data gathering
+* Service Learning Activities
+  - Improving students curricula (technical + social skills)
+* Improve data gathering*:
+  - Easier methodology/toolset
+  - More data
+
+*Under the lead/expertise of [Mapeado Colaborativo](https://mapcolabora.org)
+
+---
+
+{{% section %}}
+
+## New approach to the project
+
+Some other things need to be rethinked
+
+---
+
+<!-- {{< slide template="bg-dark" background-image="img/Standing On The Shoulder of Giants.jpg" background-opacity="0.4">}} -->
+{{< slide background-image="img/wikihouse-scheme.png" background-opacity="0.4">}}
+
+## Create a modular approach
+
+- Vast and complex field
+  - No need for everyone to do everyhing -> stand on the shoulders of giants
+- Encourage collaboration
+  - Autonomous groups working in what they are best at
+
+<div class=bg-caption>Wikihouse's scheme: an example of modular (and open) construction system.</div>
+
+---
+
+## New Focus to the theme
+
+* Pivot from _Service-Learning_ programmes to _Research programmes_.
+* Enhance _citizen science_'s dimension.
+* Link the project with prior research on (social) **exclusion and urban morphology**
+  1. Right to the city (Lefebvre, 168; Harvey 2008)
+  2. Spatial Justice (Soja, 2010)
+
+
+{{% note %}}
+Focus on the imbrications between urban design/form and exclusion/inclusion -> our real expertise.
+
+{{% /note %}}
+
+{{% /section %}}
 
 ---
 {{% section %}}
@@ -182,3 +214,7 @@ Zaccesible wishlist
 {{% /note %}}
 
 {{% /section %}}
+
+<!-- ---
+
+<iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1FEzze9hjnmD4oHz5vfp3mpTFQi7ek9TwzJPMtx1lXtU&font=Default&lang=en&hash_bookmark=true&initial_zoom=2&start_at_slide=3&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe> -->
