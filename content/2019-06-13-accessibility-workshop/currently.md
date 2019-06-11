@@ -136,7 +136,7 @@ Things are better when done together!
 * Improve data gathering*:
   - Easier methodology/toolset
 
-*Under the lead/expertise of [Mapeado Colaborativo](https://mapcolabora.org)
+<small>*Under the lead/expertise of [Mapeado Colaborativo](https://mapcolabora.org)</small>
 
 ---
 
@@ -189,10 +189,10 @@ Focus on the imbrications between urban design/form and exclusion/inclusion -> o
 {{< slide template="bg-dark" background-image="/img/thanks/t.hanks.gif" background-opacity="0.2">}}
 
 * To you, for your attention
-* AOS Research Group and Universidad San Jorge, for their support and financing.
+* [AOS Research Group](http://aos.usj.es) and Universidad San Jorge, for their support and financing.
 * [Zaccesible research staff](https://zaccesible.usj.es/about/#miembros-del-proyecto) (present, and former)
 * [Mapeado Colaborativo](https://mapcolabora.org), for their valuable collaboration from the very beginning.
-* All volunteers and associations, for their help in data collection.
+* All volunteers and associations, for their help in data collection (DSFA, Ganchillo Social, Mundo Crip, AAVV...).
 * Colegio de Arquitectos de Aragón, for being such great hosts.
 
 

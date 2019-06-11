@@ -98,7 +98,7 @@ Some procedures, accomplishments and failures between 2016 and 2018
 
 {{< slide template="bg-dark" background-image="img/mapping-party-arrabal.jpg" background-opacity="0.8" >}}
 
-<div class=bg-caption>Pedestrians are usually shocked by a group like this and asks us many questions and comments. It raises unplanned and interesting conversations.</div>
+<div class=bg-caption>Arrabal Mapping party, organized by Mapeado Colaborativo with Ganchillo Social: Pedestrians are usually shocked by a group like this and asks us many questions and comments. It raises unplanned and interesting conversations.</div>
 
 
 {{% /section %}}
