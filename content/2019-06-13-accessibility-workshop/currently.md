@@ -2,14 +2,9 @@
 weight = 20
 +++
 
-## Let's talk about the present
-
-(and the future)
-
----
-
-
 ## What are we working now (2019-...)
+
+Let's talk about the present (and the future)
 
 ---
 
