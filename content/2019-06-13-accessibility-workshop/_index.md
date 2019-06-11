@@ -13,9 +13,9 @@ plugins = ["plugin/gallery/gallery.plugin.js"]
 # custom_theme = "css/usj.css"
 # custom_theme_compile = false
 
-[logo]
-src = "/img/usj/logo-usj-negro.png"
-alt = "Universidad San Jorge Logo"
+# [logo]
+# src = "/img/usj/logo-usj-negro.png"
+# alt = "Universidad San Jorge Logo"
 
 [reveal_hugo.templates.bg-dark]
 class = "bg-dark"
