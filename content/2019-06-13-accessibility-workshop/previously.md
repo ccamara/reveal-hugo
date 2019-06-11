@@ -168,7 +168,13 @@ Some procedures, accomplishments and failures between 2016 and 2018
 
 Paradoxically, we failed to (fully) achieve our first goal*.
 
-<div class=bg-caption>*Current ongoing research.</div>
+<div class=bg-caption>*Current ongoing research, led by Miguel Sevilla.</div>
+
+{{% note %}}
+
+Miguel Sevilla there can provide you with further details.
+
+{{% /note %}}
 
 ---
 

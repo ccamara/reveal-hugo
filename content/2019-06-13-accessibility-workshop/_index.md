@@ -76,7 +76,7 @@ Being said that in 2015, I replaced Angel Comeras as main researcher at the Bant
 
 ---
 
-{{< slide template="bg-dark" class="problems"  background-image="img/igor-rodrigues-1412789-unsplash-02.jpg" background-opacity="0.8">}}
+{{< slide template="bg-dark" class="problems"  background-image="img/igor-rodrigues-1412789-unsplash-02.jpg" background-opacity="0.4">}}
 
 ## The problem(s)
 
@@ -126,11 +126,11 @@ The creation of a **pilot** to overcome those 2 problems.
 
 ---
 
-{{< slide template="bg-dark" background-image="img/osm-zgz.png" background-opacity="0.8">}}
+{{< slide template="bg-dark" background-image="img/osm-zgz.png" background-opacity="0.6">}}
 
 ## OpenStreetMap
 
-The wikipedia of the maps
+AKA "The wikipedia of the maps"
 
 * **Crowdsorced approach** (data gathering, standardization)
 * **Sharing data** (legally + technically): return to society
@@ -141,7 +141,7 @@ More specifically, this principle led us to use OSM.
 
 ---
 
-{{< slide template="bg-dark" background-image="img/IMG_20161203_102252.jpg" background-opacity="0.8">}}
+{{< slide template="bg-dark" background-image="img/IMG_20161203_102252.jpg" background-opacity="0.6">}}
 
 ## Teaming up with others
 

@@ -22,13 +22,13 @@ Let's talk about the present (and the future)
 
 
 <ul class="gallery" data-iterations="0" data-interval="2" data-mode="full-screen">
-  <li><img src="img/similar-projects/sidewalk-explorer.png" alt="Sidewalk Explorer: https://ccrpc.org/apps/sidewalks/ (Champaign County Regional Planning Commission)"></li>
+  <li><img src="img/similar-projects/sidewalk-explorer.png" alt="Sidewalk Explorer: https://ccrpc.org/apps/sidewalks/ (Champaign County Regional Planning Commission)" style="opacity:0.2;"></li>
   <li><img src="img/similar-projects/accessmap.png" alt="AccessMap: https://accessmap.io (University of Washington)"></li>
   <li><img src="img/similar-projects/wheelmap.png" alt="Wheelmap: https://wheelmap.org/ (Sozialhelden)"></li>
   <li><img src="img/similar-projects/routeability.png" alt="Routeability: http://routeability.com/"></li>
   <li><img src="img/similar-projects/project-sidewalk-02.png" alt="Project Sidewalks: https://sidewalk-sea.cs.washington.edu/ (University of Washington)"></li>
   <li><img src="img/similar-projects/Ciudades-Amigables.png" alt="Ciudades Amigables: http://ciudadesamigables.com (U. Deusto)"></li>
-  <li><img src="img/similar-projects/tohm-a.png" alt="TOHM Interactive Accessible Features Map: http://muskoka.maps.arcgis.com/apps/webappviewer/"></li>
+  <li><img src="img/similar-projects/tohm-a.png" alt="TOHM Interactive Accessible Features Map: http://muskoka.maps.arcgis.com/apps/webappviewer/" style="opacity:0.2;"></li>
 
 </ul>
 
