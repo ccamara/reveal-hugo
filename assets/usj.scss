@@ -47,6 +47,16 @@ section.has-dark-background, .bg-dark {
 
 
 // Custom sections.
+.authors {
+  font-size: 55% !important;
+  position: fixed;
+  // max-width: 80%;
+  left: 0;
+  right: 0;
+  bottom: 40px;
+  padding: 10px;
+}
+
 .bg-dark {
 	&, h1, h2, h3, h4, h5, h6 {
 		color: #fff !important;

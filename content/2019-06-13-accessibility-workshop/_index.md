@@ -41,7 +41,11 @@ Improving handicapped people's autonomy through collaborative mapping
 
 
 
-<small>Carlos Cámara | Miguel Sevilla | Javier Corzán | Javier Claver | Ana Ruiz</small>
+<div class="authors">Carlos Cámara<sup>*</sup> | Miguel Sevilla<sup>**</sup>  | Javier Corzán<sup>*</sup>  | Javier Claver<sup>*</sup> | Ana Ruiz<sup>*</sup></div>
+
+<div class=bg-caption><sup>*</sup>: Universidad San Jorge, <sup>**</sup>: Mapeado Colaborativo, Universidad de Zaragoza, IPE-CSIC.
+</div>
+
 
 {{% note %}}
 You found the speaker notes!
@@ -53,7 +57,7 @@ You found the speaker notes!
 
 ## Background (2016)
 
-* Since 2010 **Private Sponsorship** by Bantierra-Fundación Adecco, aimed to promote action research projects regarding disabilities.
+* Since 2010: **Private Sponsorship** by Bantierra-Fundación Adecco, aimed to promote action research projects regarding disabilities at Universidad San Jorge.
   - Replacement: Ángel Comeras (2010-2014) -> Carlos Cámara (2016)
 
 {{% note %}}
