@@ -50,7 +50,8 @@ You found the speaker notes!
 2. Identify possible conjoint actions
 3. (Hopefully!) Outline a possible list of next actions
 
-Nothing more (but nothing less!)
+{{% fragment %}} Nothing more (but nothing less!) {{% /fragment %}}
+
 
 ---
 
@@ -130,3 +131,9 @@ Did you miss something about you or your project that you want to share with us?
 2. If more than one idea/project has been chosen, we can split into groups
 
 {{< /section >}}
+
+---
+
+{{< slide template="bg-dark" id="thanks"  background-image="img/thanks-brad-pitt.webp" background-opacity="0.8">}}
+
+## Thank you!
