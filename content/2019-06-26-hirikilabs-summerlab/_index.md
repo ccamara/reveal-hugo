@@ -37,7 +37,7 @@ class = "portada"
 
 +++
 
-{{< slide id="home"  template="portadas">}}
+{{< slide id="home"  template="portadas" background-image="img/tabakalera.jpg">}}
 
 <div class="borders">
 
@@ -61,7 +61,9 @@ You found the speaker notes!
 
 ---
 
-## Sobre mi
+
+{{< slide background-image="/img/sobre-mi.png" background-size="contained">}}
+
 
 ---
 

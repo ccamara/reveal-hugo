@@ -99,7 +99,30 @@ weight = 20
 
 ---
 
-Fieldpapers
+{{< slide template="bg-dark" background-image="img/fieldpapers.jpg" background-opacity="0.8">}}
+
+<div style="position:fixed; bottom:0; background-color:rgba(0, 0, 0,.8); font-size:75%; padding:0 20px">http://fieldpapers.org/</div>
+
+---
+
+{{< slide template="bg-dark" background-image="img/tabla-toma de datos.png" background-opacity="0.8" background-size="contain">}}
+
+<div style="position:fixed; bottom:0; background-color:rgba(0, 0, 0,.8); font-size:75%; padding:0 20px">Tabla de toma de datos</div>
+
+
+
+---
+
+{{< slide template="bg-dark" background-image="img/streetcomplete-02.png" background-opacity="0.8" background-size="contain">}}
+
+<div style="position:fixed; bottom:0; background-color:rgba(0, 0, 0,.8); font-size:75%; padding:0 20px"><a href="https://github.com/westnordost/StreetComplete">Streetcomplete</a> (App para Android)</div>
+
+
+---
+
+{{< slide template="bg-dark" background-image="img/mapillary-zaccesible.png" background-opacity="0.8" background-size="contain" >}}
+
+[Mapillary](https://mapillary.com) (imágenes a pie de calle colaborativas)
 
 {{% /section %}}
 
@@ -178,7 +201,11 @@ Protanopia and Deuteranopia
 
 ---
 
-Video de en ruta con la ciencia. Ponerlo de fondo en iframe.
+{{< slide template="bg-dark" background-iframe="https://www.youtube.com/embed/Fi5CsTFgZjM" >}}
+
+
+<div style="position:fixed; bottom:0; background-color:rgba(0, 0, 0,.8); font-size:75%; padding:0 20px">Aparición en <a href="http://alacarta.aragontelevision.es/programas/en-ruta-con-la-ciencia/">En Ruta con la Ciencia nº 84</a> (Aragón TV)</div>
+
 
 
 {{< /section >}}
