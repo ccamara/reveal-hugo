@@ -147,7 +147,7 @@ Desgraciadamente tampoco existe cartografía oficial al respecto debido a los co
 
 <ul>
 <li>Porque es caro tomar datos y mantenerlos actualizados</li>
-Porque es complejo
+<li>Porque es complejo</li>
 <li>Porque no hay un modelo de negocio claro</li>
 <li>Porque no responden a un patrón de "normalidad"</li>
 <li>...</li>
@@ -156,6 +156,7 @@ Porque es complejo
 
 {{< note >}}
 
+Cuesta de entender, ¿verdad?
 Sé lo que os estáis preguntando: <b>¿Por qué no hay datos sobre accesibilidad urbana?</b>
 
 {{< /note >}}

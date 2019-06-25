@@ -51,31 +51,30 @@ weight = 20
 * 5 Mapping parties
 * Voluntarios que hacen trabajo de campo de forma coordinada
 
-<small>* Organized by [Mapeado Colaborativo](https://mapcolabora.org)</small>
+<small>* Organizadas por [Mapeado Colaborativo](https://mapcolabora.org)</small>
 
 <ul class="gallery" data-iterations="1" data-interval="3" data-mode="full-screen">
-  <li><img src="img/pavimento tactil-bordillo-02.jpeg" alt="Students from USJ taking field notes about kerbs and tactile paving in a pedestrian crossing. Credits: Héctor Ochoa"></li>
+  <li><img src="img/pavimento tactil-bordillo-02.jpeg" alt="Estudiantes de la USJ tomando datos de campo sobre bordillos y pavimento táctil. Foto: Héctor Ochoa"></li>
   <li><img src="img/arrabal-02.png" alt="Mapping party in Arrabal (2016-07-05)"></li>
-  <li><img src="img/photo_2017-03-27_09-51-11.jpg" alt="Mapping party in Las Delicias + Service Learning Activity with Urban Studies students"></li>
-  <li><img src="img/mapping-party-osm.jpg" alt="Volunteers uploading fieldwork data into OSM. Credits: Mapcolabora."></li>
-  <li><img src="img/_aragon22507930_a4c24fc0.jpg" alt="Mapping party at La Magdalena (2017-12-03): United Nations' International Day of Persons with Disabilities. Credits: Guillermo Mestre"></li>
+  <li><img src="img/photo_2017-03-27_09-51-11.jpg" alt="Mapping party en Las Delicias + Actividad de Aprendizaje y Servicio con alumnos de urbanismo de la USJ"></li>
+  <!-- <li><img src="img/mapping-party-osm.jpg" alt="Voluntarios subiendo información a OSM. Foto: Mapcolabora."></li> -->
+  <li><img src="img/_aragon22507930_a4c24fc0.jpg" alt="Mapping party en La Magdalena (2017-12-03): Día internacional de la persona con discapacidad. Foto: Guillermo Mestre"></li>
 </ul>
 
 ---
 
 {{< slide template="bg-dark" background-image="img/IMG_20170324_104504.jpg" background-opacity="0.8">}}
 
-## Service Learning Activities
+## Actividades de aprendizaje y servicio
+
+* Actividad obligatoria para alumnos de Urbanismo del grado de Arquitectura de la Universidad San Jorge
+  - Dirigida hacia futuros planificadores urbanos
+  - Asignatura obligatoria, práctica evaluable
+- Implicaciones sociales del diseño urbano
+- Herramientas digitales (GIS, consultas a bases de datos...)
 
 
-* Compulsory activity for students from Urban Studies at USJ's School of Architecture and Technology.
-  - Addressed to future urban planners
-  - Compulsory subject, Assessed activity
-- Social implications of urban design
-- Technological tools (GIS, queryng databases...)
-
-
-<div class=bg-caption>Conchita Galve, from Discapacitados Sin Fronteras, shares her experience on moving by Zaragoza in a wheelchair.</div>
+<div class=bg-caption>Conchita Galve, de Discapacitados Sin Fronteras, comparte su experiencia sobre desplazarse en silla de ruedas por Zaragoza.</div>
 
 
 {{% note %}}
@@ -87,11 +86,11 @@ weight = 20
 
 {{< slide template="bg-dark" background-image="img/pavimento tactil-bordillo.jpg" background-opacity="0.8">}}
 
-## Fieldwork by our staff
+## Trabajo de campo de investigadores
 
-<small>Thanks **César Canalís** (2016-17), **Lourdes Pérez** (2016-17) and **Javier Claver** (2018-2019)!</small>
+<small>¡Gracias **César Canalís** (2016-17), **Lourdes Pérez** (2016-17) y **Javier Claver** (2018-2019)!</small>
 
-<div class=bg-caption>Students from USJ taking field notes about kerbs and tactile paving in a pedestrian crossing. Credits: Héctor Ochoa</div>
+<div class=bg-caption>Estudiantes de la USJ tomando datos de campo sobre bordillos y pavimento táctil. Foto: Héctor Ochoa</div>
 
 {{% /section %}}
 
@@ -151,15 +150,15 @@ weight = 20
 
 {{< slide template="bg-dark" background-image="img/awareness-rising.jpg" background-opacity="0.8">}}
 
-## Awareness rasising
+## Concienciación
 
-<div class=bg-caption>Laura Moya (mundo Crip) and her guide dog, Geniva, explaining how blind people move and orient themselves in the city.</div>
+<div class=bg-caption>Laura Moya (mundo Crip) y su perra guía, Geniva, explicando cómo las personas ciegas se mueven y orientan en la ciudad.</div>
 
 ---
 
 {{< slide template="bg-dark" background-image="img/mapping-party-arrabal.jpg" background-opacity="0.8" >}}
 
-<div class=bg-caption>Arrabal Mapping party, organized by Mapeado Colaborativo with Ganchillo Social: Pedestrians are usually shocked by a group like this and asks us many questions and comments. It raises unplanned and interesting conversations.</div>
+<div class=bg-caption>Mapping party en Arrabal, organizada por Mapeado Colaborativo y Ganchillo Social: un grupo como este llama la atención y siempre hay algún peatón que nos pregunta cosas o se interesa por el trabajo.</div>
 
 {{< /section >}}
 
@@ -170,9 +169,9 @@ weight = 20
 
 {{< slide background-iframe="https://ccamara.carto.com/viz/472c495c-6238-4fb5-851e-93b844bc647c/embed_map" >}}
 
-## Visualization
+## Visualización
 
-2 online maps: for **visually impaired** people and for **mobility disabilities**.
+2 mapas online: para **discapacidad visual** y **discapacidad motriz**.
 
 ---
 
@@ -185,7 +184,7 @@ weight = 20
 
 ## Mapa base personalizado
 
-Protanopia and Deuteranopia
+Protanopia y Deuteranopia
 
 {{% note %}}
 
@@ -203,17 +202,17 @@ Protanopia and Deuteranopia
 
 {{< slide template="bg-dark" background-image="img/IMG_20180323_113211.jpg" background-opacity="0.8">}}
 
-##  Public attention
+##  Atención de los medios
 
-(Unexpected outcome)
+(resultado inesperado)
 
-<div class=bg-caption>Mapping Party recording for a live TV shop.</div>
+<div class=bg-caption>Grabación en directo de una Mapping Party. Foto: Carlos Cámara.</div>
 
 ---
 
 {{< slide background-image="img/heraldo.jpg" background-opacity="0.8">}}
 
-<div class=bg-caption>Newspaper news about a Mapping party (Heraldo, 2017)</div>
+<div class=bg-caption>Aparición en periódico (Heraldo, 2017)</div>
 
 ---
 
