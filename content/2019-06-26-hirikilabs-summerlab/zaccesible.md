@@ -30,11 +30,15 @@ weight = 20
 
 {{< section >}}
 
+{{< slide template="bg-dark" background-image="img/IMG_20161203_102252.jpg" background-opacity="0.8">}}
+
 ## Mecanismos de toma de datos
 
 ¿Cómo recopilamos los datos?
 
+{{< note >}}
 3 Mecanismos de toma de datos.
+{{< /note >}}
 
 ---
 
@@ -45,7 +49,7 @@ weight = 20
 ## Mapping parties*
 
 * 5 Mapping parties
-* Volunteers doing specific Fieldwork
+* Voluntarios que hacen trabajo de campo de forma coordinada
 
 <small>* Organized by [Mapeado Colaborativo](https://mapcolabora.org)</small>
 
@@ -95,6 +99,8 @@ weight = 20
 
 {{% section %}}
 
+{{< slide template="bg-dark" background-image="img/Ejemplo datos de campo 2.jpeg" background-opacity="0.8">}}
+
 ## Herramientas de toma de datos
 
 ---
@@ -125,6 +131,16 @@ weight = 20
 [Mapillary](https://mapillary.com) (imágenes a pie de calle colaborativas)
 
 {{% /section %}}
+
+---
+
+{{< slide template="bg-dark" background-image="img/mapcolabora-subida-datos.png" background-opacity="0.6" >}}
+
+## Publicación de datos
+
+<small>Subimos los datos de campo a OSM añadiendo etiquetas consensuadas por la comunidad.</small>
+
+<div class=bg-caption>Sesión de Mapeado Colaborativo para la subida de datos a OSM.</div>
 
 ---
 

@@ -62,8 +62,19 @@ You found the speaker notes!
 ---
 
 
-{{< slide background-image="/img/sobre-mi.png" background-size="contained">}}
+<!-- {{< slide background-image="/img/sobre-mi.png" background-size="contained">}} -->
 
+{{< slide template="bg-dark" background-image="img/aragon-tv-carlos.jpg" background-opacity="0.4" >}}
+
+## Carlos Cámara Menoyo
+
+**Profesor, investigador, aprendiz**
+
+PDI en la [Universidad San Jorge](https://usj.es). Cofundador de [Mapeado Colaborativo](https://mapcolabora.org)
+
+Entre mis múltiples intereses de investigación se encuentran las **comodificaciones entre ciudad, tecnología y sociedad** dentro del marco del informacionalismo y la cultura libre.
+
+https://carloscamara.es | <i class="fab fa-twitter"></i>[@carlescamara](https://twitter.com/carlescamara)
 
 ---
 
@@ -128,13 +139,26 @@ Desgraciadamente tampoco existe cartografía oficial al respecto debido a los co
 
 ---
 
-### ¿Por qué no hay datos sobre accesibilidad urbana?
+{{< slide template="bg-dark" class="problems"  background-video="/img/questions/vincent-vega.mp4" background-opacity="0.4">}}
 
-* Porque es caro tomar datos y mantenerlos actualizados
-* Porque es complejo
-* Porque no hay un modelo de negocio claro
-* Porque no responden a un patrón de "normalidad"
-* ...
+<div class="fragment">
+
+<h3>¿Por qué no hay datos sobre accesibilidad urbana?</h2>
+
+<ul>
+<li>Porque es caro tomar datos y mantenerlos actualizados</li>
+Porque es complejo
+<li>Porque no hay un modelo de negocio claro</li>
+<li>Porque no responden a un patrón de "normalidad"</li>
+<li>...</li>
+</ul>
+</div>
+
+{{< note >}}
+
+Sé lo que os estáis preguntando: <b>¿Por qué no hay datos sobre accesibilidad urbana?</b>
+
+{{< /note >}}
 
 ---
 
