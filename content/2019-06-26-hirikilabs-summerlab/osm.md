@@ -105,6 +105,8 @@ Fuente: [osmstats.neis-one.org](https://osmstats.neis-one.org/)
 
 {{< section >}}
 
+{{< slide background-image="img/josm.png" background-opacity="0.6" background-position="top">}}
+
 ## Aplicaciones y servicios
 
 ---
