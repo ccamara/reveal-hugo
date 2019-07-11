@@ -3,6 +3,9 @@ languageCode = "en-us"
 title = "My slides"
 
 theme = "reveal-hugo"
+ 
+# relativeURLs = true
+# uglyURLs = true
 
 [outputFormats.Reveal]
 baseName = "index"
