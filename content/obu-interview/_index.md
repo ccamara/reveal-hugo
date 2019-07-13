@@ -82,7 +82,7 @@ I made the following assumptions:
 
 {{< slide template="pink" >}}
 
-## Contents
+## Session content
 
 1. **Introducing ourselves** (reduced)
 2. **Introduction to BIM module** (reduced)
@@ -100,13 +100,18 @@ I made the following assumptions:
 
 **Architect. PhD. Lecturer. Learner**
 
-Here is where I would introduce myself.
+Life-long learner. Interested in social aspects of design and technology, and more particularly how do each one shape the others.
 
 https://carloscamara.es | <i class="fab fa-twitter"></i>[@carlescamara](https://twitter.com/carlescamara)
 
+{{% note %}}
+Here is where I would introduce myself.
+Since we have already had plenty of time disussing about me, I will skip this part.
+{{% /note %}}
+
 ---
 
-{{< slide template="bg-dark" background-image="img/amor-necro.jpg" background-opacity="0.4" >}}
+{{< slide template="bg-dark" background-image="img/amor-necro.jpg" background-opacity="0.7" >}}
 
 ## About you
 
@@ -128,9 +133,13 @@ Please, introduce yourselves.
 ## About BIM
 
 {{% note %}}
+
+Since we know each other, let's introduce the other agent that will be with us all the course: BIM.
+
 <p>Does anyone...</p>
-<ul><li>Has some prior knowledge/experience with BIM?</li>
-<li>What BIM is</li>
+<ul>
+<li>Know what BIM is?</li>
+<li>Has some prior knowledge/experience with BIM?</li>
 </ul>
 {{% /note %}}
 
@@ -152,31 +161,31 @@ Please, introduce yourselves.
 
 {{% note %}}
 
-I know, you might be dissapointed. What makes BIM so revolutionary?
+BIM stands for...
 
-Ask students if they can think of any advantage of this revolutionary approach.
+I know, you might be dissapointed and you might be wondering about what makes BIM so revolutionary?
+
+Ask students: Can you think of any advantage of this revolutionary approach?
 
 {{% /note %}}
 
 ---
 
-Poner vídeos de posibilidades de BIM.
-
-ej: https://www.youtube.com/watch?v=yuxYEFUX57s
+{{< slide background-iframe="https://www.youtube.com/embed/5Qj9pI5us7o" >}}
 
 ---
 
-{{< slide  background-image="img/image-VirtualBuilding.png" background-opacity="0.2" >}}
+{{< slide  background-image="img/database-schema-1895779_1280-1080x675.png" background-opacity="0.1" background-size="contain" >}}
 
-### Information is key.
+### Information is key
 
-It allows unprecedent possibilities:
-
-* Project's consistency → error reduction
-* Integrated reports and schedules
-* Supervision
-
-Everything is possible because of different types of information stored in a relational database within the model.
+* It allows unprecedent possibilities:
+  - Project's consistency → error reduction
+  * Integrated schedules
+  * Coordination between stakeholders
+  - Quality Assurance
+  - ...
+* Everything is possible because of different types of information stored in a relational database within the model.
 
 
 ---
@@ -196,22 +205,106 @@ Everything is possible because of different types of information stored in a rel
 ## About the module
 
 {{% note %}}
-Now that we know each other and now that we know what BIM is and why is so important, let's see what are we going to do on this module and how are we going to do it.
+Now that we know what BIM is and why is so important, let's see what are we going to do on this module and how are we going to do it.
 {{% /note %}}
 
 ---
 
 ## Module's Goals
 
-1. To get familiar with BIM
+1. To get familiar with BIM software
+2. To be able to **create** and **extract** information from a BIM model
+  1. Drawings (Plans, sections, elevations...)
+  2. 3D views
+  2. Schedules
 
 ---
+
+{{< section >}}
 
 ## Module's content
 
+Introduction to BIM
+
+{{% note %}}
+In order to achieve those goals, let me introduce the module's content, which is seen as an introduction to BIM.
+{{% /note %}}
+
 ---
 
+{{< slide  background-video="img/revit-navigation-short.webm" background-opacity="0.2" >}}
+
+### 1. Exploring the BIM model
+
+---
+
+{{< slide background-image="img/archicad.jpg" background-video-loop="true" background-opacity="0.3" >}}
+
+### 2. Constructing
+
+  1. Project setup
+  2. Using constructive elements
+
+---
+
+{{< slide background-image="img/BIM.jpg" background-opacity="0.4" >}}
+
+### 3. Visualizing
+
+---
+
+{{< slide  background-video="img/doors-schedules-short.webm" background-opacity="0.5" >}}
+
+### 4. Scheduling
+
+---
+
+{{< slide template="bg-dark" background-image="img/revizto-markup-in-issue-tracker.png" background-opacity="0.5" >}}
+
+
+### Out of this module
+
+* MEP (Mechanical, Electrical and plumbing engineering)
+* Structural Design
+* Analysis (Energy, Life cycle, Structural...)
+* Project management
+* Collaboration
+* Interoperativity with other software
+
+<div class=bg-caption>Revizto Screenshot: real-time issue tracking software for BIM collaboration.</div>
+
+{{% note %}}
+Learning BIM is a complex and long process. There are many things that we will not be covering in this module, like...
+{{% /note %}}
+
+{{< /section >}}
+
+---
+{{< section >}}
+
+{{< slide background-image="img/jury-usj-rotated.jpg" background-opacity="0.3" >}}
+
 ## Module's structure
+
+Learning by doing + flipped classroom
+
+---
+
+### About my role as a techer
+
+<small>Guide vs Enciclopedia</small>
+
+* I do not know everything
+* Even if I did, it is YOU who have to learn
+  - you are responsible of your own learning
+* I will be guiding you on the process
+  - asking Questions
+  - answering questions (usually with other questions)
+  - pointing to documentation/resources
+  - encouraging you
+  - ...
+
+{{< /section >}}
 
 ---
 
@@ -223,13 +316,14 @@ Now that we know each other and now that we know what BIM is and why is so impor
 
 {{< slide background-image="img/rice-step-by-step.png" background-opacity="0.1" background-size="contain" >}}
 
-### This is not a recipes' module:
+### This is not a recipes' module
 
+Looking for the logic behind BIM to solve our problems, not “magical” recipes
 
 ---
 
 ### This is not a module about how to use specific software
-(usually tied to two brands)
+<small>(usually tied to two brands)</small>
 
 - The tools that are used the most differ depending on time and region
 - Universities are places to learn, not produce consumers
@@ -240,8 +334,6 @@ Now that we know each other and now that we know what BIM is and why is so impor
 ---
 
 {{< section >}}
-
-{{< slide template="pink" >}}
 
 ## Assessment
 
@@ -255,18 +347,19 @@ Now that we know each other and now that we know what BIM is and why is so impor
 
 ---
 
-## Learning outcomes / What have we learnt?
+## What have we learnt?
+<small>(today)</small>
 
-* About the module:
-  - *What / Why / How* are we going to do this course.
 * About BIM:
-  * BIM definition
-   * What BIM is
-   * What BIM is not
+  - BIM definition
+  - What BIM is
+  - What BIM is not
+- About the module:
+  - *What / Why / How* are we going to do this course.
 
 
 ---
 
 {{< slide template="pink" >}}
 
-## Epilogue
+## Questions?
