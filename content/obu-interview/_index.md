@@ -100,7 +100,7 @@ I made the following assumptions:
 
 **Architect. PhD. Lecturer. Learner**
 
-Life-long learner. Interested in social aspects of design and technology, and more particularly how do each one shape the others.
+Life-long learner. Interested in **social aspects** of **design**, **cities** and **technology**, and more particularly how do each one shape the others in a **digital culture**.
 
 https://carloscamara.es | <i class="fab fa-twitter"></i>[@carlescamara](https://twitter.com/carlescamara)
 
@@ -154,14 +154,17 @@ Since we know each other, let's introduce the other agent that will be with us a
 <small>(concept from 1970 and further developed in 1987)</small>
 
 <ul><li>We are actually building a (virtual) building beforehand → simmulation of construction process.</li>
-  <ul class="fragment"><li>We can extract documentation from it (plans, sections, schedules...)</li>
+  <ul class="fragment"><li>Everything is connected: a single change, affects all the model (butterfly effect)</li>
+  <li>We can extract <i>automated and coherent</i> documentation from it (plans, sections, schedules...)</li>
   <li>We can foresee problems before is too late (always better to fix a line than a wall)</li>
-  <li>Everything is connected: a single change, affects all the model (butterfly effect)</li></ul>
+  </ul>
 </ul>
 
 {{% note %}}
 
 BIM stands for...
+
+This is an old concept that consists of building a virtual building right from our desk, hence simmulating its construction process.
 
 I know, you might be dissapointed and you might be wondering about what makes BIM so revolutionary?
 
@@ -236,6 +239,13 @@ In order to achieve those goals, let me introduce the module's content, which is
 
 ### 1. Exploring the BIM model
 
+{{< note >}}
+
+Since everything is stored in a single model, it means that with time, it will become big and complex. As a result, it is of utmost importance to be able to navigate through their different representations to get or create the information we want to.
+
+{{< /note >}}
+
+
 ---
 
 {{< slide background-image="img/archicad.jpg" background-video-loop="true" background-opacity="0.3" >}}
@@ -244,6 +254,12 @@ In order to achieve those goals, let me introduce the module's content, which is
 
   1. Project setup
   2. Using constructive elements
+
+  {{< note >}}
+
+  The next part of the module consists of creating a model from scratch. In order to do so, we will be using constructing elements. -> not representations as in CAD. This is really important because every object has a bunch of properties, just as in real life + we are not simply drawing but also thinking about how that building would be built.
+
+  {{< /note >}}
 
 ---
 
@@ -287,6 +303,25 @@ Learning BIM is a complex and long process. There are many things that we will n
 ## Module's structure
 
 Learning by doing + flipped classroom
+
+---
+
+{{< slide background-image="img/wikihouse.png" background-opacity="0.4" >}}
+
+## Guiding project
+
+* Same project for everyone
+* Same project for the whole course
+  - Intermediate assignments (milestones)
+* Groups of students (grouped by software)
+  - Learning from peers
+  - Discussion and comparison
+
+---
+
+### Documentation
+
+Wiki-like, collaborative documentation with multimedia content. Made by students.
 
 ---
 
