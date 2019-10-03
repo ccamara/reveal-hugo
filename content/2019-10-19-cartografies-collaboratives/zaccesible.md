@@ -2,7 +2,7 @@
 weight = 20
 +++
 
-{{< slide template="bg-dark" background-image="img/portada.png" background-opacity="0.8">}}
+{{< slide template="bg-dark" background-image="/img/zaccesible/portada.png" background-opacity="0.8">}}
 
 ## Zaragoza Accesible
 
@@ -12,7 +12,7 @@ weight = 20
 
 {{< section >}}
 
-{{< slide template="bg-dark" background-image="img/calles-accesibilidad.jpg" background-opacity="0.8">}}
+{{< slide template="bg-dark" background-image="/img/zaccesible/calles-accesibilidad.jpg" background-opacity="0.8">}}
 
 ## Tipo de datos
 
@@ -20,7 +20,7 @@ weight = 20
 
 
 ---
-{{< slide template="bg-dark" background-image="img/etiquetas-en-uso.png" background-opacity="0.8">}}
+{{< slide template="bg-dark" background-image="/img/zaccesible/etiquetas-en-uso.png" background-opacity="0.8">}}
 
 
 
@@ -30,7 +30,7 @@ weight = 20
 
 {{< section >}}
 
-{{< slide template="bg-dark" background-image="img/IMG_20161203_102252.jpg" background-opacity="0.8">}}
+{{< slide template="bg-dark" background-image="/img/zaccesible/IMG_20161203_102252.jpg" background-opacity="0.8">}}
 
 ## Mecanismos de toma de datos
 
@@ -52,16 +52,16 @@ weight = 20
 * Voluntarios que hacen trabajo de campo de forma coordinada
 
 <ul class="gallery" data-iterations="1" data-interval="3" data-mode="full-screen">
-  <li><img src="img/pavimento tactil-bordillo-02.jpeg" alt="Estudiantes de la USJ tomando datos de campo sobre bordillos y pavimento táctil. Foto: Héctor Ochoa"></li>
-  <li><img src="img/arrabal-02.png" alt="Mapping party in Arrabal (2016-07-05)"></li>
-  <li><img src="img/photo_2017-03-27_09-51-11.jpg" alt="Mapping party en Las Delicias + Actividad de Aprendizaje y Servicio con alumnos de urbanismo de la USJ"></li>
+  <li><img src="/img/zaccesible/pavimento tactil-bordillo-02.jpeg" alt="Estudiantes de la USJ tomando datos de campo sobre bordillos y pavimento táctil. Foto: Héctor Ochoa"></li>
+  <li><img src="/img/zaccesible/arrabal-02.png" alt="Mapping party in Arrabal (2016-07-05)"></li>
+  <li><img src="/img/zaccesible/photo_2017-03-27_09-51-11.jpg" alt="Mapping party en Las Delicias + Actividad de Aprendizaje y Servicio con alumnos de urbanismo de la USJ"></li>
   <!-- <li><img src="img/mapping-party-osm.jpg" alt="Voluntarios subiendo información a OSM. Foto: Mapcolabora."></li> -->
-  <li><img src="img/_aragon22507930_a4c24fc0.jpg" alt="Mapping party en La Magdalena (2017-12-03): Día internacional de la persona con discapacidad. Foto: Guillermo Mestre"></li>
+  <li><img src="/img/zaccesible/_aragon22507930_a4c24fc0.jpg" alt="Mapping party en La Magdalena (2017-12-03): Día internacional de la persona con discapacidad. Foto: Guillermo Mestre"></li>
 </ul>
 
 ---
 
-{{< slide template="bg-dark" background-image="img/IMG_20170324_104504.jpg" background-opacity="0.8">}}
+{{< slide template="bg-dark" background-image="/img/zaccesible/IMG_20170324_104504.jpg" background-opacity="0.8">}}
 
 ## Actividades de aprendizaje y servicio
 
@@ -82,7 +82,7 @@ weight = 20
 
 ---
 
-{{< slide template="bg-dark" background-image="img/pavimento tactil-bordillo.jpg" background-opacity="0.8">}}
+{{< slide template="bg-dark" background-image="/img/zaccesible/pavimento tactil-bordillo.jpg" background-opacity="0.8">}}
 
 ## Trabajo de campo de investigadores
 
@@ -96,19 +96,19 @@ weight = 20
 
 {{% section %}}
 
-{{< slide template="bg-dark" background-image="img/Ejemplo datos de campo 2.jpeg" background-opacity="0.8">}}
+{{< slide template="bg-dark" background-image="/img/zaccesible/Ejemplo datos de campo 2.jpeg" background-opacity="0.8">}}
 
 ## Herramientas de toma de datos
 
 ---
 
-{{< slide template="bg-dark" background-image="img/fieldpapers.jpg" background-opacity="0.8">}}
+{{< slide template="bg-dark" background-image="/img/zaccesible/fieldpapers.jpg" background-opacity="0.8">}}
 
 <div style="position:fixed; bottom:0; background-color:rgba(0, 0, 0,.8); font-size:75%; padding:0 20px">http://fieldpapers.org/</div>
 
 ---
 
-{{< slide template="bg-dark" background-image="img/tabla-toma de datos.png" background-opacity="0.8" background-size="contain">}}
+{{< slide template="bg-dark" background-image="/img/zaccesible/tabla-toma de datos.png" background-opacity="0.8" background-size="contain">}}
 
 <div style="position:fixed; bottom:0; background-color:rgba(0, 0, 0,.8); font-size:75%; padding:0 20px">Tabla de toma de datos</div>
 
@@ -116,14 +116,14 @@ weight = 20
 
 ---
 
-{{< slide template="bg-dark" background-image="img/streetcomplete-02.png" background-opacity="0.8" background-size="contain">}}
+{{< slide template="bg-dark" background-image="/img/osm/streetcomplete-02.png" background-opacity="0.8" background-size="contain">}}
 
 <div style="position:fixed; bottom:0; background-color:rgba(0, 0, 0,.8); font-size:75%; padding:0 20px"><a href="https://github.com/westnordost/StreetComplete">Streetcomplete</a> (App para Android)</div>
 
 
 ---
 
-{{< slide template="bg-dark" background-image="img/mapillary-zaccesible.png" background-opacity="0.8" background-size="contain" >}}
+{{< slide template="bg-dark" background-image="/img/zaccesible/mapillary-zaccesible.png" background-opacity="0.8" background-size="contain" >}}
 
 [Mapillary](https://mapillary.com) (imágenes a pie de calle colaborativas)
 
@@ -131,7 +131,7 @@ weight = 20
 
 ---
 
-{{< slide template="bg-dark" background-image="img/mapcolabora-subida-datos.png" background-opacity="0.6" >}}
+{{< slide template="bg-dark" background-image="/img/zaccesible/mapcolabora-subida-datos.png" background-opacity="0.6" >}}
 
 ## Publicación de datos
 
@@ -141,12 +141,14 @@ weight = 20
 
 ---
 
+{{< slide template="verdes">}}
+
 ## Resultados conseguidos
 
 ---
 {{% section %}}
 
-{{< slide template="bg-dark" background-image="img/awareness-rising.jpg" background-opacity="0.8">}}
+{{< slide template="bg-dark" background-image="/img/zaccesible/awareness-rising.jpg" background-opacity="0.8">}}
 
 ## Concienciación
 
@@ -154,7 +156,7 @@ weight = 20
 
 ---
 
-{{< slide template="bg-dark" background-image="img/mapping-party-arrabal.jpg" background-opacity="0.8" >}}
+{{< slide template="bg-dark" background-image="/img/zaccesible/mapping-party-arrabal.jpg" background-opacity="0.8" >}}
 
 <div class=bg-caption>Mapping party en Arrabal, organizada por Mapeado Colaborativo y Ganchillo Social: un grupo como este llama la atención y siempre hay algún peatón que nos pregunta cosas o se interesa por el trabajo.</div>
 
@@ -175,6 +177,8 @@ weight = 20
 
 {{< slide background-iframe="https://ccamara.carto.com/viz/a11856af-f34f-4862-9607-0486ac106fa6/embed_map" >}}
 
+
+<!--
 ---
 
 {{< slide background-iframe="/mapbox-protanopia-deuteranopia.html" >}}
@@ -191,6 +195,7 @@ Protanopia y Deuteranopia
 
 {{% /note %}}
 
+-->
 
 {{< /section >}}
 
@@ -198,7 +203,7 @@ Protanopia y Deuteranopia
 
 {{< section >}}
 
-{{< slide template="bg-dark" background-image="img/IMG_20180323_113211.jpg" background-opacity="0.8">}}
+{{< slide template="bg-dark" background-image="/img/zaccesible/IMG_20180323_113211.jpg" background-opacity="0.8">}}
 
 ##  Atención de los medios
 
@@ -208,7 +213,7 @@ Protanopia y Deuteranopia
 
 ---
 
-{{< slide background-image="img/heraldo.jpg" background-opacity="0.8">}}
+{{< slide background-image="/img/zaccesible/heraldo.jpg" background-opacity="0.8">}}
 
 <div class=bg-caption>Aparición en periódico (Heraldo, 2017)</div>
 

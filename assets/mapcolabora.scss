@@ -29,13 +29,23 @@ $selectionBackgroundColor: #26351C;
   line-height: 1.3em;
 }
 
-section.has-dark-background, .bg-dark {
+section.has-dark-background, .bg-dark, .verdes {
 	&, h1, h2, h3, h4, h5, h6 {
 		color: #fff;
     text-shadow: rgba(0, 0, 0, 0.4) 0px 3px 3px;
 	}
 }
 
+.verdes {
+	&, h1, h2, h3, h4, h5, h6 {
+		color: #fff !important;
+    text-shadow: rgba(0, 0, 0, 0.4) 0px 3px 3px !important;
+	}
+  a {
+    color: #fff !important;
+    text-decoration: underline !important;
+  }
+}
 
 #logo {
   position: absolute;

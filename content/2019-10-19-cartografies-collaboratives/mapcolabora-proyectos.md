@@ -15,6 +15,8 @@ weight = 10
 
 ---
 
+{{< slide template="verdes" id="proyectos">}}
+
 ## Proyectos
 
 Inicialmente, impulsados por nosotros. Ahora queremos alterar
@@ -85,11 +87,12 @@ Colaboramos con [Médicos Sin Fronteras](https://www.msf.es/mapaton-la-cartograf
 
 </ul>
 
----
+
+{{< note >}}
 
 cartografiado zonas remotas en las que intervienen los equipos de MSF en Malí, Nigeria, República Democrática del Congo (RDC) y áreas damnificadas por el ciclón Idai en Mozambique
 
-
+{{< /note >}}
 
 {{< /section >}}
 
@@ -97,7 +100,7 @@ cartografiado zonas remotas en las que intervienen los equipos de MSF en Malí, 
 
 {{< section >}}
 
-{{< slide template="bg-dark" background-image="img/portada.png" background-opacity="0.8">}}
+{{< slide template="bg-dark" background-image="/img/zaccesible/portada.png" background-opacity="0.8">}}
 
 ## Sobre Zaragoza Accesible
 
@@ -109,7 +112,7 @@ Un mapa de barreras para una ciudad sin ellas.
 
 Algunos datos sobre discapacidad en España {{< frag c="¡de 2008!!!" >}}
 
-![](img/INE-2009-discapacidad.png)
+![](/img/zaccesible/INE-2009-discapacidad.png)
 
 <small>Fuente: INE. (2009). *Encuesta de Discapacidad, Autonomía personal y situaciones de Dependencia. 2008.* Recuperado a partir de https://www.ine.es/revistas/cifraine/1009.pdf</small>
 
@@ -125,7 +128,7 @@ Todas estas personas están excluidas.
 
 ---
 
-{{< slide template="bg-dark" class="problems"  background-image="img/igor-rodrigues-1412789-unsplash-02.jpg" background-opacity="0.4">}}
+{{< slide template="bg-dark" class="problems"  background-image="/img/zaccesible/igor-rodrigues-1412789-unsplash-02.jpg" background-opacity="0.4">}}
 
 ## Nuestro objetivo
 
@@ -136,6 +139,9 @@ Mejorar la autonomía de las personas con diversidad funcional y problemas de mo
   - Visibilizar problemas de un colectivo excluido
   - Proporcionar rutas
 - Testear un protocolo/metodología
+
+
+<div class=bg-caption>Foto: Igor Rodrigues</div>
 
 ---
 
@@ -180,7 +186,7 @@ Sé lo que os estáis preguntando: <b>¿Por qué no hay datos sobre accesibilida
 
 ---
 
-{{< slide background-image="img/esquema-colores-mudo.png" background-opacity="0.2" background-size="contain">}}
+{{< slide background-image="/img/zaccesible/esquema-colores-mudo.png" background-opacity="0.2" background-size="contain">}}
 
 ### ...y sin embargo...
 

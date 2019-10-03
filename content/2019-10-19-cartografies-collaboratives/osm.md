@@ -2,7 +2,7 @@
 weight = 10
 +++
 
-{{< slide id="osm" template="bg-dark" background-image="img/osm-bcn-2019-10.png" background-opacity="0.6">}}
+{{< slide id="osm" template="bg-dark" background-image="/img/osm/osm-bcn-2019-10.png" background-opacity="0.6">}}
 
 ## OpenStreetMap
 
@@ -19,24 +19,26 @@ More specifically, this principle led us to use OSM.
 
 ---
 
-{{< slide template="bg-dark" background-image="img/osm-bcn-visible.png" background-opacity="0.8">}}
+{{< slide template="bg-dark" background-image="/img/osm/osm-bcn-visible.png" background-opacity="0.8">}}
 
 <div style="position:fixed; bottom:0; background-color:rgba(0, 0, 0,.8); font-size:75%; padding:0 20px">Esto es lo que se ve en https://openstreetmap.org</a>
 
 
 ---
 
-{{< slide template="bg-dark" background-image="img/osm_maps_slow.gif" background-opacity="0.8">}}
+{{< slide template="bg-dark" background-image="/img/osm/osm_maps_slow.gif" background-opacity="0.8">}}
+
+Aunque en realidad...
 
 ## Son muchos mapas
 
-<div style="position:fixed; bottom:0; background-color:rgba(0, 0, 0,.8); font-size:75%; padding:0 20px">¡Incluso hay más mapas fuera de https://openstreetmap.org !</a>
+<div style="position:fixed; bottom:0; background-color:rgba(0, 0, 0,.8); font-size:75%; padding:0 10px 0">¡Incluso hay más mapas fuera de https://openstreetmap.org !</a>
 
 ---
 
 {{< section >}}
 
-{{< slide template="bg-dark" background-image="img/osm-editor.png" background-opacity="0.8">}}
+{{< slide template="bg-dark" background-image="/img/osm/osm-editor.png" background-opacity="0.8">}}
 
 ## Base de datos espacial colaborativa
 
@@ -50,25 +52,25 @@ More specifically, this principle led us to use OSM.
 * **Componente temático**: información asociada a la geometría
   - Par etiquetas y valores (key/value)
 ```
-shop=bakery
-name=Panadería Alonso
+amenity=community_centre
+name=Centre Albareda
 ```
 
 ---
 
-{{< slide template="bg-dark" background-image="img/osm-map-features.png" background-opacity="0.9" background-position="top">}}
+{{< slide template="bg-dark" background-image="/img/osm/osm-map-features.png" background-opacity="0.9" background-position="top">}}
 
 <div style="position:fixed; bottom:0; background-color:rgba(0, 0, 0,.8); font-size:75%; padding:0 20px">Todas las claves se documentan en la wiki. Un buen punto de partida es https://wiki.openstreetmap.org/wiki/Map_Features</div>
 
 ---
 
-{{< slide background-image="img/osm-wiki-keys.png" background-opacity="0.9" background-position="top" background-size="contain">}}
+{{< slide background-image="/img/osm/osm-wiki-keys.png" background-opacity="0.9" background-position="top" background-size="contain">}}
 
 {{< /section >}}
 
 ---
 
-{{< slide background-image="img/osm_data.png" background-opacity="0.3" >}}
+{{< slide background-image="/img/osm/osm_data.png" background-opacity="0.3" >}}
 
 ## Comunidad mundial
 
@@ -85,43 +87,14 @@ Fuente: [osmstats.neis-one.org](https://osmstats.neis-one.org/)
 
 {{< section >}}
 
-{{< slide background-image="img/josm.png" background-opacity="0.6" background-position="top">}}
+<!-- {{< slide background-image="img/josm.png" background-opacity="0.6" background-position="top">}} -->
 
 ## Aplicaciones y servicios
 
----
+<ul class="gallery" data-iterations="0" data-interval="2.5" data-mode="full-screen">
+  <li><img src="/img/osm/josm.png" alt="Editor avanzado JOSM" style="opacity:0.2;"></li>
+  <li><img src="/img/osm/demof4map-bcn.png" alt="Edificios 3D con F4 Maps" style="opacity:0.2;"></li>
+  <li><img src="/img/osm/overpass-turbo-accesibilidad.png" alt="Consultas a la BD a partir de la API overpass" style="opacity:0.2;"></li>
+  <li><img src="/img/osm/streetcomplete-02.png" alt="Aplicaciones móviles (StreetComplete)" style="opacity:0.2;"></li>
 
-{{< slide template="bg-dark" background-image="img/demof4map-donostia.png" background-opacity="0.9" background-position="top">}}
-
-### F4 Maps
-
----
-
-{{< slide template="bg-dark" background-image="img/ziclabilidad.png" background-opacity="0.6" background-position="top">}}
-
-### uMap
-
-<div style="position:fixed; bottom:0; background-color:rgba(0, 0, 0,.8); font-size:75%; padding:0 20px">Proyecto <a href="https://mapcolabora.org/project/ziclabilidad/">#Ziclabilidad</a> (Héctor Hochoa), usando <a href="http://umap.openstreetmap.fr/">uMap</a></div>
-
-
----
-
-{{< slide background-image="img/overpass-turbo-accesibilidad.png" background-opacity="0.8" >}}
-
-## Overpass
-
-Permite hacer consultas a la base de datos de OSM.
-
-<div class="bg-caption">Consulta en <a href="http://overpass-turbo.eu/">Overpass Turbo</a> sobre lugares accesibles en silla de ruedas en Donosti</div>
-
----
-
-### Otros
-
-* Editores (id, JOSM, Vespucci...)
-* Geocoders (Nominatim, Geonames, Photon...)
-* Estilos de Mapas personalizados (mapbox, mapzen...)
-* Herramientas de QA (osmcha)
-* Gamificación
-
-{{< /section >}}
+</ul>
