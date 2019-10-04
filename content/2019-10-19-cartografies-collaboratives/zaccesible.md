@@ -65,7 +65,7 @@ weight = 20
 
 ## Actividades de aprendizaje y servicio
 
-* Actividad obligatoria para alumnos de Urbanismo del grado de Arquitectura de la Universidad San Jorge
+* Actividad obligatoria para alumnos de Urbanismo del grado de Arquitectura de la [Universidad San Jorge](https://usj.es)
   - Dirigida hacia futuros planificadores urbanos
   - Asignatura obligatoria, práctica evaluable
 - Implicaciones sociales del diseño urbano
@@ -84,7 +84,7 @@ weight = 20
 
 {{< slide template="bg-dark" background-image="/img/zaccesible/pavimento tactil-bordillo.jpg" background-opacity="0.8">}}
 
-## Trabajo de campo de investigadores
+## Trabajo de campo de investigadores de la USJ
 
 <small>¡Gracias **César Canalís** (2016-17), **Lourdes Pérez** (2016-17) y **Javier Claver** (2018-2019)!</small>
 

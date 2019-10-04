@@ -65,15 +65,15 @@ You found the speaker notes!
 
 <!-- {{< slide background-image="/img/sobre-mi.png" background-size="contained">}} -->
 
-{{< slide template="bg-dark" id="yo" background-image="img/mapcolabora/grupo-aragontv.jpg" background-opacity="0.6" >}}
+{{< slide template="bg-dark" id="yo" background-image="/img/mapcolabora/grupo-aragontv.jpg" background-position="center" background-opacity="0.6" >}}
 
 ## Carlos Cámara Menoyo
 
 Cofundador de [Mapeado Colaborativo](https://mapcolabora.org)
 
-Entre mis múltiples intereses de investigación se encuentran las **comodificaciones entre ciudad, tecnología y sociedad** dentro del marco del informacionalismo y la cultura libre.
+Entre mis múltiples intereses de investigación se encuentran las comodificaciones entre **ciudad, tecnología y sociedad**.
 
-Hasta el momento me he centrado en las desigualdades sociales y espaciales, y en cómo las ciudades pueden ser más sostenibles e igulaitarias y, por tanto, mejorar las condiciones de vida de sus habitantes.
+Centrado en las desigualdades sociales y espaciales, y en cómo las ciudades pueden ser más sostenibles e igulaitarias y, por tanto, mejorar las condiciones de vida de sus habitantes.
 
 https://carloscamara.es | <i class="fab fa-twitter"></i>[@carlescamara](https://twitter.com/carlescamara)
 
@@ -81,7 +81,7 @@ https://carloscamara.es | <i class="fab fa-twitter"></i>[@carlescamara](https://
 
 ---
 
-{{< slide template="bg-dark" background-image="/img/mapcolabora/02-grupo-zac.jpg" background-opacity="0.6">}}
+{{< slide template="bg-dark" id="mapcolabora" background-image="/img/mapcolabora/02-grupo-zac.jpg" background-opacity="0.6">}}
 
 ## Sobre Mapeado Colaborativo
 

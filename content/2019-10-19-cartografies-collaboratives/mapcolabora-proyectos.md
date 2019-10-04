@@ -23,7 +23,7 @@ Inicialmente, impulsados por nosotros. Ahora queremos alterar
 
 ---
 
-{{< slide template="bg-dark" background-image="/img/mapcolabora/manual.jpg" background-opacity="0.4">}}
+{{< slide template="bg-dark" id="manual" background-image="/img/mapcolabora/manual.jpg" background-opacity="0.4">}}
 
 ### Manual OpenStreetMap
 
@@ -35,7 +35,7 @@ Manual colaborativo de introducción a OSM. Forma parte de nuestro proceso de do
 
 {{< section >}}
 
-{{< slide template="bg-dark" background-image="/img/mapcolabora/ziclabilidad.jpg" background-opacity="0.8">}}
+{{< slide template="bg-dark" id="ziclabilidad" background-image="/img/mapcolabora/ziclabilidad.jpg" background-opacity="0.8">}}
 
 
 
@@ -61,7 +61,7 @@ Mapa dinámico de la infraestructura ciclable en Zaragoza:
 
 {{< section >}}
 
-{{< slide template="bg-dark" background-image="/img/mapcolabora/mapaton.jpg" background-opacity="0.8">}}
+{{< slide template="bg-dark" id="mapaton" background-image="/img/mapcolabora/mapaton.jpg" background-opacity="0.8">}}
 
 ### Mapatón Humanitario
 
@@ -100,7 +100,7 @@ cartografiado zonas remotas en las que intervienen los equipos de MSF en Malí, 
 
 {{< section >}}
 
-{{< slide template="bg-dark" background-image="/img/zaccesible/portada.png" background-opacity="0.8">}}
+{{< slide template="bg-dark" id="zaccesible" background-image="/img/zaccesible/portada.png" background-opacity="0.8">}}
 
 ## Sobre Zaragoza Accesible
 
