@@ -1,11 +1,10 @@
 +++
 title = "Mapas al servicio de la ciudadanía"
-description = "Zaragoza Accesible es un proyecto de investigación-acción que consiste en mapear colectivamente aspectos relacionados con la accesibilidad urbana y discapacidad. En esta charla explicaré por qué decidimos usar OpenStreetMap así como nuestra metodología de toma de datos."
+description = "Mapeado colaborativo pone la información geográfica al servicio de la ciudadanía. En esta charla explicaré algunos proyectos colaborativos que hemos desarrollado."
 outputs = ["Reveal"]
 
 
 [reveal_hugo]
-# theme = "white"
 custom_theme = "mapcolabora.scss"
 custom_theme_compile = true
 plugins = ["plugin/gallery/gallery.plugin.js"]
@@ -26,10 +25,6 @@ class = "bibliographical-ref"
 class = "bg-caption"
 
 [reveal_hugo.templates.home]
-# background-image = "img/trama.png"
-# background-size = "17px"
-# background-position = "top"
-# background-repeat = "repeat"
 class = "portada"
 
 [reveal_hugo.templates.verdes]
