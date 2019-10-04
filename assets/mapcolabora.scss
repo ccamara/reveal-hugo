@@ -47,12 +47,15 @@ section.has-dark-background, .bg-dark, .verdes {
   }
 }
 
+.desktop #logo {
+  max-width: 150px !important;
+}
 #logo {
   position: absolute;
   top: 20px;
   // bottom: 20px !important;
   left: 20px;
-  width: 250px;
+  max-width: 80px;
 }
 
 

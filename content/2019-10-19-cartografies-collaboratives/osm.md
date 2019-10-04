@@ -2,7 +2,7 @@
 weight = 10
 +++
 
-{{< slide id="osm" template="bg-dark" background-image="/img/osm/osm-bcn-2019-10.png" background-opacity="0.6">}}
+{{< slide id="osm" template="bg-dark" background-image="/img/osm/osm-bcn-2019-10.png" background-position="top" background-opacity="0.6">}}
 
 ## OpenStreetMap
 
@@ -19,7 +19,7 @@ More specifically, this principle led us to use OSM.
 
 ---
 
-{{< slide template="bg-dark" background-image="/img/osm/osm-bcn-visible.png" background-opacity="0.8">}}
+{{< slide template="bg-dark" background-image="/img/osm/osm-bcn-visible.png" background-position="top" background-opacity="0.8">}}
 
 <div style="position:fixed; bottom:0; background-color:rgba(0, 0, 0,.8); font-size:75%; padding:0 20px">Esto es lo que se ve en https://openstreetmap.org</a>
 
@@ -38,7 +38,7 @@ Aunque en realidad...
 
 {{< section >}}
 
-{{< slide template="bg-dark" background-image="/img/osm/osm-editor.png" background-opacity="0.8">}}
+{{< slide template="bg-dark" background-position="top" background-image="/img/osm/osm-editor.png" background-opacity="0.8">}}
 
 ## Base de datos espacial colaborativa
 
