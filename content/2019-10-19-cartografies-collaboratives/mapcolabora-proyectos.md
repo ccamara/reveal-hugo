@@ -19,7 +19,13 @@ weight = 10
 
 ## Proyectos
 
-Inicialmente, impulsados por nosotros. Ahora queremos alterar
+Impulsados por nosotros
+
+{{< note >}}
+
+Impulsados por nosotros. Ahora queremos alterar esta lógica y estamos abiertos a propuestas.
+
+{{< /note >}}
 
 ---
 
@@ -35,7 +41,7 @@ Manual colaborativo de introducción a OSM. Forma parte de nuestro proceso de do
 
 {{< section >}}
 
-{{< slide template="bg-dark" id="ziclabilidad" background-image="/img/mapcolabora/ziclabilidad.jpg" background-opacity="0.8">}}
+{{< slide template="bg-dark" id="ziclabilidad" background-image="/img/mapcolabora/ziclabilidad.jpg" background-opacity="0.6">}}
 
 
 

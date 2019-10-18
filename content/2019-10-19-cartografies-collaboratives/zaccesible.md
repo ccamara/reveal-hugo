@@ -48,7 +48,7 @@ weight = 20
 
 ## Mapping parties
 
-* 5 Mapping parties
+* 6 Mapping parties (la última esta mañana)
 * Voluntarios que hacen trabajo de campo de forma coordinada
 
 <ul class="gallery" data-iterations="1" data-interval="3" data-mode="full-screen">
@@ -65,11 +65,11 @@ weight = 20
 
 ## Actividades de aprendizaje y servicio
 
-* Actividad obligatoria para alumnos de Urbanismo del grado de Arquitectura de la [Universidad San Jorge](https://usj.es)
+* Obligatorias para alumnos de Urbanismo del grado de Arquitectura de la [Universidad San Jorge](https://usj.es)
   - Dirigida hacia futuros planificadores urbanos
   - Asignatura obligatoria, práctica evaluable
 - Implicaciones sociales del diseño urbano
-- Herramientas digitales (GIS, consultas a bases de datos...)
+- Herramientas digitales (GIS, consultas a BBDD...)
 
 
 <div class=bg-caption>Conchita Galve, de Discapacitados Sin Fronteras, comparte su experiencia sobre desplazarse en silla de ruedas por Zaragoza.</div>

@@ -41,10 +41,9 @@ data-background-opacity = "0.3"
 <small>II Jornades Cartografies Col·laboratives<br>
 19 d'octubre de 2019. Centre Cultural Albareda. Barcelona.</small>
 
-<h2>Mapeado Colaborativo</h2>
-<h3>Mapas por y para la ciudadanía</h3>
+<p>Mapeado Colaborativo:</p>
+<h2>Mapas por y para la ciudadanía</h2>
 
-<br>
 <p>Carlos Cámara Menoyo</p>
 
 <small>Mapeado Colaborativo<br>
@@ -64,9 +63,7 @@ You found the speaker notes!
 
 ## Carlos Cámara Menoyo
 
-Cofundador de [Mapeado Colaborativo](https://mapcolabora.org)
-
-Entre mis múltiples intereses de investigación se encuentran las comodificaciones entre **ciudad, tecnología y sociedad**.
+Cofundador de [Mapeado Colaborativo](https://mapcolabora.org). Investigo sobre las comodificaciones entre **ciudad, tecnología y sociedad**.
 
 Centrado en las desigualdades sociales y espaciales, y en cómo las ciudades pueden ser más sostenibles e igulaitarias y, por tanto, mejorar las condiciones de vida de sus habitantes.
 
