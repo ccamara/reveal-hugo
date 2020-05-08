@@ -121,7 +121,7 @@ The creation of a **pilot** to overcome those 2 problems.
 
 ---
 
-### Pragmatical decision:
+### Pragmatic decision:
   - Overcome our own limitations (staff, infrastructure)
   - Reduce setup time
 
