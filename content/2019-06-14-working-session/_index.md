@@ -80,7 +80,7 @@ Did you miss something about you or your project that you want to share with us?
 
 ---
 
-{{< section >}}
+{{% section %}}
 
 ## Brainstorming (60')
 
@@ -94,11 +94,11 @@ Did you miss something about you or your project that you want to share with us?
 5. Repeat the process (20')
 
 
-{{< /section >}}
+{{% /section %}}
 
 ---
 
-{{< section >}}
+{{% section %}}
 
 ## Priorizing ideas (60')
 
@@ -119,18 +119,18 @@ Did you miss something about you or your project that you want to share with us?
 2. Identify which ideas are to be done immediately, someday or never
 3. Identify if there is one or more ideas that can be done at short-medium term.
 
-{{< /section >}}
+{{% /section %}}
 
 ---
 
-{{< section >}}
+{{% section %}}
 
 ## Strategy (40')
 
 1. Think about a possible course of action / next steps to achieve the top idea/project.
 2. If more than one idea/project has been chosen, we can split into groups
 
-{{< /section >}}
+{{% /section %}}
 
 ---
 

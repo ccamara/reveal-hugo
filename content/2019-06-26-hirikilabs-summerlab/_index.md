@@ -78,7 +78,11 @@ https://carloscamara.es | <i class="fab fa-twitter"></i>[@carlescamara](https://
 
 ---
 
-{{< section >}}
+ {{% fragment %}} ¡de 2008!!! {{% /fragment %}}
+
+---
+
+{{% section %}}
 
 {{< slide template="bg-dark" background-image="img/portada.png" background-opacity="0.8">}}
 
@@ -90,7 +94,7 @@ Un mapa de barreras para una ciudad sin ellas.
 
 ---
 
-Algunos datos sobre discapacidad en España {{< frag c="¡de 2008!!!" >}}
+Algunos datos sobre discapacidad en España {{% fragment %}} ¡de 2008!!! {{% /fragment %}}
 
 ![](img/INE-2009-discapacidad.png)
 
@@ -195,4 +199,4 @@ De la web 2.0 al VGI:
 * Licencias libres
 * OpenData
 
-{{< /section >}}
+{{% /section %}}

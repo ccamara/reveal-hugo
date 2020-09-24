@@ -39,7 +39,7 @@ Manual colaborativo de introducción a OSM. Forma parte de nuestro proceso de do
 
 ---
 
-{{< section >}}
+{{% section %}}
 
 {{< slide template="bg-dark" id="ziclabilidad" background-image="/img/mapcolabora/ziclabilidad.jpg" background-opacity="0.6">}}
 
@@ -61,11 +61,11 @@ Mapa dinámico de la infraestructura ciclable en Zaragoza:
 
 <div class=bg-caption>Mapa interactivo <a href="http://umap.openstreetmap.fr/es/map/ziclabilidad_141722#12/41.6520/-0.8916">ver mapa original</a></div>
 
-{{< /section >}}
+{{% /section %}}
 
 ---
 
-{{< section >}}
+{{% section %}}
 
 {{< slide template="bg-dark" id="mapaton" background-image="/img/mapcolabora/mapaton.jpg" background-opacity="0.8">}}
 
@@ -100,11 +100,11 @@ cartografiado zonas remotas en las que intervienen los equipos de MSF en Malí, 
 
 {{< /note >}}
 
-{{< /section >}}
+{{% /section %}}
 
 ---
 
-{{< section >}}
+{{% section %}}
 
 {{< slide template="bg-dark" id="zaccesible" background-image="/img/zaccesible/portada.png" background-opacity="0.8">}}
 
@@ -224,4 +224,4 @@ De la web 2.0 al VGI:
 * Licencias libres
 * OpenData
 
-{{< /section >}}
+{{% /section %}}

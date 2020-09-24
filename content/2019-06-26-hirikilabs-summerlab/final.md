@@ -19,7 +19,7 @@ weight = 100
 
 --- -->
 
-{{< section >}}
+{{% section %}}
 {{< slide template="bg-dark" background-image="/img/thanks/thanks-brad-pitt-loop-once.webp" background-opacity="0.8">}}
 
 ## Eskerrik asko!

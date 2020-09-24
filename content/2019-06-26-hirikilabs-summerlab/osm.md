@@ -26,7 +26,7 @@ More specifically, this principle led us to use OSM.
 
 <!-- ---
 
-{{< section >}}
+{{% section %}}
 
 {{< slide template="bg-dark" background-image="img/osm-visible-standard.png" background-opacity="0.8">}}
 
@@ -42,7 +42,7 @@ More specifically, this principle led us to use OSM.
 
 <div style="position:fixed; bottom:0; background-color:rgba(0, 0, 0,.8); font-size:75%; padding:0 20px">¡Incluso hay más mapas fuera de https://openstreetmap.org !</a>
 
-{{< /section >}} -->
+{{% /section %}} -->
 
 ---
 
@@ -54,7 +54,7 @@ More specifically, this principle led us to use OSM.
 
 ---
 
-{{< section >}}
+{{% section %}}
 
 {{< slide template="bg-dark" background-image="img/osm-editor.png" background-opacity="0.8">}}
 
@@ -84,7 +84,7 @@ name=Panadería Alonso
 
 {{< slide background-image="img/osm-wiki-keys.png" background-opacity="0.9" background-position="top" background-size="contain">}}
 
-{{< /section >}}
+{{% /section %}}
 
 ---
 
@@ -103,7 +103,7 @@ Fuente: [osmstats.neis-one.org](https://osmstats.neis-one.org/)
 
 ---
 
-{{< section >}}
+{{% section %}}
 
 {{< slide background-image="img/josm.png" background-opacity="0.6" background-position="top">}}
 
@@ -144,4 +144,4 @@ Permite hacer consultas a la base de datos de OSM.
 * Herramientas de QA (osmcha)
 * Gamificación
 
-{{< /section >}}
+{{% /section %}}

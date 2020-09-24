@@ -10,7 +10,7 @@ Part 2
 
 ---
 
-{{< section >}}
+{{% section %}}
 
 {{< slide template="bg-dark" background-image="/img/zaccesible/calles-accesibilidad.jpg" background-opacity="0.8">}}
 
@@ -24,11 +24,11 @@ What kind of data do we gather?
 {{< slide template="bg-dark" background-image="/img/zaccesible/etiquetas-en-uso.png" background-opacity="0.8">}}
 
 
-{{< /section >}}
+{{% /section %}}
 
 ---
 
-{{< section >}}
+{{% section %}}
 
 {{< slide template="bg-dark" background-image="/img/zaccesible/IMG_20161203_102252.jpg" background-opacity="0.8">}}
 
@@ -161,12 +161,12 @@ How is data gathered?
 
 <div class=bg-caption>Mapping party en Arrabal, organizada por Mapeado Colaborativo y Ganchillo Social: un grupo como este llama la atención y siempre hay algún peatón que nos pregunta cosas o se interesa por el trabajo.</div>
 
-{{< /section >}}
+{{% /section %}}
 
 
 ---
 
-{{< section >}}
+{{% section %}}
 
 {{< slide background-iframe="https://ccamara.carto.com/viz/472c495c-6238-4fb5-851e-93b844bc647c/embed_map" >}}
 
@@ -198,11 +198,11 @@ Protanopia y Deuteranopia
 
 -->
 
-{{< /section >}}
+{{% /section %}}
 
 ---
 
-{{< section >}}
+{{% section %}}
 
 {{< slide template="bg-dark" background-image="/img/zaccesible/IMG_20180323_113211.jpg" background-opacity="0.8">}}
 
@@ -227,4 +227,4 @@ Protanopia y Deuteranopia
 
 
 
-{{< /section >}}
+{{% /section %}}

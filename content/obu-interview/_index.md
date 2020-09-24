@@ -127,7 +127,7 @@ Please, introduce yourselves.
 
 ---
 
-{{< section >}}
+{{% section %}}
 {{< slide template="pink" background-image="img/image-VirtualBuilding.png" background-opacity="0.4" >}}
 
 ## About BIM
@@ -199,7 +199,7 @@ Ask students: Can you think of any advantage of this revolutionary approach?
 * Not (just) a design tool
 * Not (just) a 3D modelling tool
 
-{{< /section >}}
+{{% /section %}}
 
 ---
 
@@ -223,7 +223,7 @@ Now that we know what BIM is and why is so important, let's see what are we goin
 
 ---
 
-{{< section >}}
+{{% section %}}
 
 ## Module's content
 
@@ -293,10 +293,10 @@ Since everything is stored in a single model, it means that with time, it will b
 Learning BIM is a complex and long process. There are many things that we will not be covering in this module, like...
 {{% /note %}}
 
-{{< /section >}}
+{{% /section %}}
 
 ---
-{{< section >}}
+{{% section %}}
 
 {{< slide background-image="img/jury-usj-rotated.jpg" background-opacity="0.3" >}}
 
@@ -339,11 +339,11 @@ Wiki-like, collaborative documentation with multimedia content. Made by students
   - encouraging you
   - ...
 
-{{< /section >}}
+{{% /section %}}
 
 ---
 
-{{< section >}}
+{{% section %}}
 
 ## What this module is not about
 
@@ -364,11 +364,11 @@ Looking for the logic behind BIM to solve our problems, not “magical” recipe
 - Universities are places to learn, not produce consumers
 - I don't get any profit if you buy certain software or not
 
-{{< /section >}}
+{{% /section %}}
 
 ---
 
-{{< section >}}
+{{% section %}}
 
 ## Assessment
 
@@ -378,7 +378,7 @@ Looking for the logic behind BIM to solve our problems, not “magical” recipe
 * Documentation (30%)
 * QA (10%)
 
-{{< /section >}}
+{{% /section %}}
 
 ---
 

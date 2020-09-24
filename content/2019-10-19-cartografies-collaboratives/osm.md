@@ -36,7 +36,7 @@ Aunque en realidad...
 
 ---
 
-{{< section >}}
+{{% section %}}
 
 {{< slide template="bg-dark" background-position="top" background-image="/img/osm/osm-editor.png" background-opacity="0.8">}}
 
@@ -66,7 +66,7 @@ name=Centre Albareda
 
 {{< slide background-image="/img/osm/osm-wiki-keys.png" background-opacity="0.9" background-position="top" background-size="contain">}}
 
-{{< /section >}}
+{{% /section %}}
 
 ---
 
@@ -85,7 +85,7 @@ Fuente: [osmstats.neis-one.org](https://osmstats.neis-one.org/)
 
 ---
 
-{{< section >}}
+{{% section %}}
 
 <!-- {{< slide background-image="img/josm.png" background-opacity="0.6" background-position="top">}} -->
 
