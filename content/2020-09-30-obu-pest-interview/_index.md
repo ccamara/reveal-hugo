@@ -290,6 +290,12 @@ I admit that since I am new to UK, I didn't know any of the stakeholders you've 
 
 ### Podcasts
 
+1. Technician:
+   1. Scalae (Recording, audio editing, publishing)
+2. Guest:
+   1. [Arquicafe Stepien y Barno](https://www.youtube.com/watch?time_continue=1252&v=MTtfXY67Xgs&feature=emb_title)
+   2. [COVID and participation](#)
+
 <!-- ---
 
 {{< slide background-image="/img/mapcolabora/aragon-abierto.png" background-position="top" background-opacity="0.6" template="bg-dark">}}
@@ -311,6 +317,8 @@ I admit that since I am new to UK, I didn't know any of the stakeholders you've 
 ### Talks
 
 ---
+
+{{< slide background="/img/about-me/google-scholar.png" background-position="top" background-opacity="0.3">}}
 
 ### Papers  🎓
   
