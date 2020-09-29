@@ -45,18 +45,21 @@ section.has-dark-background, .bg-dark {
   width: 150px;
 }
 
+img {
+  border: none !important;
+}
 
 // Custom sections.
 .authors {
-  // font-size: 55% !important;
-  // position: relative;
+  font-size: 65% !important;
+  position: fixed;
   // max-width: 80%;
-  // left: 0;
-  // right: 0;
-  // bottom: 40px;
-  // padding: 10px;
-  margin-top: 90px !important;
+  left: 0;
+  right: 0;
+  bottom: 40px;
+  padding: 10px;
 }
+
 
 .bg-dark {
 	&, h1, h2, h3, h4, h5, h6 {
@@ -77,6 +80,7 @@ section.has-dark-background, .bg-dark {
   // text-align: left;
 }
 
+
 .csl-bib-body {
   font-size: 20px !important;
   text-align: left;
@@ -90,20 +94,15 @@ section.has-dark-background, .bg-dark {
 }
 
 .portada {
-  // background: #fff;
-  // border-bottom-width: 10px !important;
-  // border-top-width: 10px !important;
-  // border-color: #000 !important;
-  // border-bottom-style: solid !important;
-  // border-top-style: solid !important;
   .borders {
-    background: #fff;
+    background: rgba(255,255,255,.7);
     border-bottom-width: 10px !important;
     border-top-width: 10px !important;
     border-color: #383D3D !important;
     border-bottom-style: solid !important;
     border-top-style: solid !important;
-    padding: 60px 60px 5px 60px;
+    // padding: 60px 60px 5px 60px;
+    padding: 30px 60px;
     min-height: 500px;
     p {
       vertical-align: middle;
@@ -111,10 +110,41 @@ section.has-dark-background, .bg-dark {
   }
 }
 
-ul {
-  ul {
+.big-table {
+    table {
+    font-size: 50%;
+    thead {
+      // border-top: 2px solid;
+      border-bottom: 2px solid;
+      tr {
+        border: 0;
+      }
+    }
+    tbody {
+      tr:nth-child(odd) {
+        border-bottom: 1px solid;
+      }
+      tr {
+        border-bottom: 1px solid;
+        
+        td {
+          // border-bottom: 0px solid;
+        }
+        // &last-child {
+        //   border-bottom: 2px solid;
+        // }
+      }
+       
+    } 
+
+    
+  }
+}
+
+ul, ol {
+  ul, ol {
     font-size: 75% !important;
-    ul {
+    ul, ol {
       font-size: 65% !important;
     }
   }
