@@ -152,12 +152,6 @@ With those indicators, we can create indicators' matrices like the proposed one
 
 ---
 
-{{< slide background-video="img/reports.mp4" >}}
-
-## Interactive reports
-
----
-
 {{< slide template="pink" >}}
 
 ## Data Gathering
@@ -263,26 +257,66 @@ I admit that since I am new to UK, I didn't know any of the stakeholders you've 
 
 ## Results' Dissemination
 
+
 ---
 
-### Dissemination
+{{< slide background-video="img/dashboard.mp4" background-position="top" background-opacity="0.3">}}
 
-1. Dashboards / Apps
-   1. [COVID-19 Dashboard](https://ccamara.github.io/covid_spain/)
-   2. Walk to school
-2. Websites
-   1. My personal website (https://carloscamara.es/en)
-   2. Guest blog posts ([Medium](https://towardsdatascience.com/considerations-on-the-importance-of-data-and-science-in-data-science-b19f5155fd9c))
-3. (interactive) Reports
-   1. [STATS19 data exploration](https://ccamara.github.io/stats19_exploration/)
-4. Podcasts
-5. Media (newspapers, TV)
-6. Papers  🎓
-   1. [ORCID profile](http://orcid.org/0000-0002-9378-0549)
+### Dashboards
 
-{{% note %}}
-I have experience in the following areas:
-{{% /note %}}
+1. [COVID-19 Dashboard](https://ccamara.github.io/covid_spain/)
+2. Walk to school
+
+---
+
+{{< slide background-image="img/medium-post.png" background-position="top" background-opacity="0.3">}}
+
+### Websites
+
+1. My personal website (https://carloscamara.es/en)
+2. Guest blog posts ([Medium](https://towardsdatascience.com/considerations-on-the-importance-of-data-and-science-in-data-science-b19f5155fd9c))
+
+---
+
+{{< slide background-video="img/reports.mp4" background-opacity="0.6"  >}}
+
+### (Interactive) reports
+
+1. [STATS19 data exploration](https://ccamara.github.io/stats19_exploration/)
+
+---
+
+{{< slide background="/img/podcast-scalae.png" background-position="top" background-opacity="0.6">}}
+
+### Podcasts
+
+<!-- ---
+
+{{< slide background-image="/img/mapcolabora/aragon-abierto.png" background-position="top" background-opacity="0.6" template="bg-dark">}}
+
+
+### Media (newspapers, TV) -->
+
+---
+
+{{< slide background-image="/img/mapcolabora/aragon-abierto2.png" background-position="top" background-opacity="0.6" template="bg-dark">}}
+
+
+### Media (newspapers, TV)
+
+---
+
+{{< slide background-image="/img/about-me/talk-cartografies-collaboratives.jpg" background-position="top" background-opacity="0.6" template="bg-dark">}}
+
+### Talks
+
+---
+
+### Papers  🎓
+  
+* [ORCID profile](http://orcid.org/0000-0002-9378-0549)
+* [Research Gate](https://www.researchgate.net/profile/Carlos_Camara_Menoyo)
+* [Google Scholar](https://scholar.google.es/citations?user=zuCP2PAAAAAJ&hl=ca)
 
 ---
 
