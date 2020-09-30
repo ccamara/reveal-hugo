@@ -235,6 +235,7 @@ I admit that since I am new to UK, I didn't know any of the stakeholders you've 
    * Perceptions on neighbourhoods (Universidad San Jorge), fieldwork + gforms
    * Energy consumption habits (Ciclica), limesurvey
    * Walk to School (Solasgune)
+   
 ---
 
 {{< slide background="/img/R_logo.svg" background-position="80% 60%" background-size="400px">}}
