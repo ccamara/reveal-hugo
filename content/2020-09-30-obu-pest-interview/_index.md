@@ -1,5 +1,5 @@
 +++
-title = "Oxford Brookes"
+title = "PEST Research Assistant (Oxford Brookes)"
 description = "Sample lecture for post interview."
 outputs = ["Reveal"]
 
