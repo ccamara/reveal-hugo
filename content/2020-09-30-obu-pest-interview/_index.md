@@ -57,6 +57,7 @@ class = "portada"
 
 </div>
 
+
 {{% note %}}
 After an excellent background on the need for studying the relationship/impacts between COVID and active travel, I was asked to do a brief introduction demonstrating how could I 
 
@@ -74,6 +75,8 @@ Disclaimer:
 Increase understanding of place-based policy and activity in relation to active travel in the aftermath of the Covid-19 pandemic
 
 {{% fragment %}} <small> Assess how they support equitable and sustainable transport for most vulnerable colectives/areas </small> {{% /fragment %}}
+
+{{% fragment %}} <small> <p>Assess Active Travel's role in the transition to climate neutrality and healthier and more equitable ecosystems</p> </small> {{% /fragment %}}
 
 {{% note %}}
  by investigating the response of English local planning and highway authorities to the UK government’s Emergency Active Travel Fund (EATF) and Cycling and Walking strategy.
@@ -107,7 +110,7 @@ Indicators' matrix (a draft proposal)
 
 | Scale                   | Analysis units       | Indicator                                                                            | Sources                                                                                                                       |
 | ----------------------- | -------------------- | ------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------- |
-| Macro (Country, county) | Legislation          | Number of laws, policies, regulations...                                             | Open Data, Interviews, Desk Research                                                                                          |
+| Macro (Country, county) | Legislation          | Number of laws, regulations, measures...                                             | Open Data, Interviews, Desk Research                                                                                          |
 |                         |                      | Budget                                                                               |                                                                                                                               |
 |                         |                      | Location                                                                             |                                                                                                                               |
 |                         | Sales/users          | Number of vehicles/sales per type                                                    |                                                                                                                               |
@@ -129,6 +132,7 @@ With those indicators, we can create indicators' matrices like the proposed one
 {{< slide background-video="img/dashboard.mp4" background-position="top">}}
 
 ## Dashboards / Apps
+
 
 ---
 
