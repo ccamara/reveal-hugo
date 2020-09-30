@@ -105,8 +105,8 @@ Increase understanding of **place-based policy and activity** in relation to **a
 <ul class="fragment" data-fragment-index="1">
 <li class="fragment" data-fragment-index="1">Types:</li>
 <ul class="fragment" data-fragment-index="1">
-<li>Quantitative (open data repositories, datasets...)</li>
-<li>Qualitative (interviews, stakeholders, study cases)</li>
+<li>Quantitative (open data repositories, datasets, surveys...)</li>
+<li>Qualitative (interviews, stakeholders, study cases, surveys)</li>
 </ul>
 <li class="fragment" data-fragment-index="2">Scale:</li>
 <ul class="fragment" data-fragment-index="2">
@@ -130,7 +130,7 @@ Indicators' matrix (a draft proposal)
 |                         | Sales/users          | Number of vehicles/sales per type                                                    |                                                                                                                               |
 | Local (City)            | Active travel habits | Routes by type of transport, demographics and time (month, weekday, hours), avg km.. | Strava Metro <small>(free, starting 27/09/2020, [blog post](https://blog.strava.com/the-new-human-powered-era-20951))</small> |
 |                         | Highways’ network    | Number of Km by type (pedestrian, bike lanes...)                                     | OpenStreetMap, Open Data Repos                                                                                                |
-| Micro (Cases)           | Study case           | Geography (Location)                                                                 | Interviews, Case Study                                                                                                        |
+| Micro (Cases)           | Study case           | Geography (Location)                                                                 | Interviews, Case, survey Study                                                                                                        |
 |                         |                      | Stakeholders (Promoter, beneficiaries...)                                            |                                                                                                                               |
 |                         |                      | Description                                                                          |                                                                                                                               |
 |                         |                      | Impacts (Number of Km...)                                                            |                                                                                                                               |
@@ -224,6 +224,17 @@ I admit that since I am new to UK, I didn't know any of the stakeholders you've 
   * Recording
   * Transcription
 
+---
+
+{{< slide background-image="/img/qualtrics.png" background-opacity="0.4" >}}
+
+## Surveys /questionnaires
+
+* Experience in:
+   * Fablabs (Urban Transformations and Global Change), qualtrics
+   * Perceptions on neighbourhoods (Universidad San Jorge), fieldwork + gforms
+   * Energy consumption habits (Ciclica), limesurvey
+   * Walk to School (Solasgune)
 ---
 
 {{< slide background="/img/R_logo.svg" background-position="80% 60%" background-size="400px">}}
