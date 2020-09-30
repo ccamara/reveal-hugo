@@ -69,10 +69,24 @@ Disclaimer:
 {{% /note %}}
 
 ---
+{{< slide background-image="img/IMG_20200915_145534.jpg" background-opacity="0.4" template="bg-dark" >}}
+
+## Structure
+
+1. Digestion/interpretation of PEST's summary/handout
+2. (proto) Proposal of how would I proceed
+   1. Indicators
+   2. Data gathering
+   3. Data + project organization
+3. Demonstration of useful skills/experiences
+
+<!-- <div class="bg-caption">Tactical urbanism @ George Street. Photo: Carlos Cámara (5/09/2020)</div> -->
+
+---
 
 ## PEST's Goals
 
-Increase understanding of place-based policy and activity in relation to active travel in the aftermath of the Covid-19 pandemic
+Increase understanding of **place-based policy and activity** in relation to **active travel** in the **aftermath of the Covid-19** pandemic
 
 {{% fragment %}} <small> Assess how they support equitable and sustainable transport for most vulnerable colectives/areas </small> {{% /fragment %}}
 
@@ -88,17 +102,17 @@ Increase understanding of place-based policy and activity in relation to active 
 
 ## Indicators
 
-<ul>
+<ul class="fragment" data-fragment-index="1">
 <li class="fragment" data-fragment-index="1">Types:</li>
 <ul class="fragment" data-fragment-index="1">
 <li>Quantitative (open data repositories, datasets...)</li>
-<li>Qualitative (interviews, study cases)</li>
+<li>Qualitative (interviews, stakeholders, study cases)</li>
 </ul>
 <li class="fragment" data-fragment-index="2">Scale:</li>
 <ul class="fragment" data-fragment-index="2">
 <li>Macro (Country/County)</li>
 <li>Local (city)</li>
-<li>Micro (cases -eg. George Street)</li>
+<li>Micro (cases -eg. Tactical urbanism @ George Street)</li>
 </ul>
 </ul>
 
@@ -176,16 +190,19 @@ I admit that since I am new to UK, I didn't know any of the stakeholders you've 
 
 ---
 
-<ul class="gallery" data-iterations="1" data-interval="2.5" data-mode="full-screen">
+<ul class="gallery" data-iterations="1" data-interval="2" data-mode="full-screen">
   <li><img src="img/sustrans.jpg" alt="Sustrans" style="opacity:0.2;"></li>
   <li><img src="img/cycling-uk.jpg" alt="Cycling UK" style="opacity:0.2;"></li>
   <li><img src="img/living-streets.png" alt="Living Streets" style="opacity:0.2;"></li>
   <li><img src="/img/zaccesible/IMG_20161203_102252.jpg" alt="Accessible Zaragoza: Working with NGOs, Disabled collectives, City Council, Students (Photo: Carlos Cámara)" style="opacity:0.2;"></li>
+  <li><img src="/img/zaccesible/mapping-party-arrabal.jpg" alt="Accessible Zaragoza: Mapping party" style="opacity:0.2;"></li>
   <li><img src="img/solasgune-class.jpg" alt="Children interacting with Dashboard on a Walk to school project (Photo: Julian Maguna, Solasgune)" style="opacity:0.2;"></li>
 
 </ul>
 
 {{% note %}}
+
+I admit that since I am new to UK, I didn't know any of the stakeholders you've mentioned  (Sustrans, Cycling UK and Living Streets) other than an initial exploration to their websites
 
 {{% /note %}}
 
@@ -198,8 +215,8 @@ I admit that since I am new to UK, I didn't know any of the stakeholders you've 
 ### Interviews
 
 * Experience in:
-  * PhD (key agents in urban commons)
-  * MSc (key agents in drupal community)
+  * PhD (key actors in urban commons)
+  * MSc (key actors in drupal community)
 * Types:
   * Structured/semi-structured
 * Tasks:
@@ -319,6 +336,10 @@ I admit that since I am new to UK, I didn't know any of the stakeholders you've 
 {{< slide background-image="/img/about-me/talk-cartografies-collaboratives.jpg" background-position="top" background-opacity="0.6" template="bg-dark">}}
 
 ### Talks
+
+<small>List and summaries of [all my talks](https://carloscamara.es/en/talk)</small>
+<!-- 
+<div class="bg-caption">Visit https://carloscamara.es/en/talk for a comprehensive list</div> -->
 
 ---
 
