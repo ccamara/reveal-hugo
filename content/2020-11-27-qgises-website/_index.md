@@ -1,6 +1,6 @@
 +++
 title = "QGIS.es website"
-description = "Sample lecture for post interview."
+description = "A (brief) techical overview"
 outputs = ["Reveal"]
 
 
@@ -43,7 +43,7 @@ data-background-opacity = "0.3"
 
 
 <h2><a href="https://qgis.es">QGIS.es</a> Website</h2>
-<p> A technical overview</p>
+<p>A (brief) techical overview</p>
 </br>
 
 <p>Carlos Cámara-Menoyo</p>
