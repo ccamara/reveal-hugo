@@ -155,17 +155,19 @@ Hosted in a [git(hub) repo](https://github.com/qgises/qgis-es) (no server needed
 
 ---
 
+{{< slide template="bg-dark" background-video="/img/gifs/this-is-the-way.mp4" background-opacity="0.8">}}
+
+{{% fragment %}}# Questions?{{% /fragment %}}
+
+---
+
 {{< slide template="bg-dark" background-image="/img/thanks/thanks-brad-pitt-loop-once.webp" background-opacity="0.8">}}
 
 ## Thank you!
 
----
-
-
-{{< slide template="verdes">}}
-
-# Questions?
-
 https://carloscamara.es | [@carlescamaera](https://twitter.com/carlescamara)
 
 <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Licencia de Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a></small>
+
+
+
