@@ -39,7 +39,7 @@ data-background-opacity = "0.3"
 
 <div class="borders">
 
-<small>QHF November 2020</small>
+<small>QGISOpenDay - 27 November 2020</small>
 
 
 <h2><a href="https://qgis.es">QGIS.es</a> Website</h2>
