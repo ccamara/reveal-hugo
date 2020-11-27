@@ -121,6 +121,22 @@ Impulsados por nosotros. Ahora queremos alterar esta lógica y estamos abiertos 
 
 ---
 
+{{< slide background-size="contain" background-image="https://d33wubrfki0l68.cloudfront.net/c38c7334cc3f23585738e40334284fddcaf03d5e/2e17c/images/hugo-logo-wide.svg" background-position="right" background-opacity="0.2">}} 
+
+
+
+
+## Hugo
+
+* Fast
+* Content types
+* Great support and documentation
+* Multilingual
+* Multi-platform
+
+
+---
+
 {{< slide template="verdes">}}
 
 ## Infrastructure
