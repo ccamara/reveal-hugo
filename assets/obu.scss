@@ -29,6 +29,7 @@ $selectionBackgroundColor: #26351C;
   line-height: 1.3em;
 }
 
+
 section.has-dark-background, .bg-dark {
 	&, h1, h2, h3, h4, h5, h6 {
 		color: #fff;
@@ -60,6 +61,12 @@ img {
   padding: 10px;
 }
 
+.pink {
+  a {
+    color: white !important;
+    text-decoration: underline !important;
+  }
+}
 
 .bg-dark {
 	&, h1, h2, h3, h4, h5, h6 {
@@ -70,10 +77,11 @@ img {
 
 .bg-caption {
   position: fixed;
+  display: block;
   // max-width: 80%;
   left: 0;
   right: 0;
-  bottom: 0px;
+  bottom: -200px;
   padding: 10px;
   font-size: 50% !important;
   font-style: italic !important;
@@ -83,7 +91,7 @@ img {
 // .bg-caption {
 //   display: block;
 // position: absolute;
-// bottom: 20px;
+// bottom: 0px;
 // min-width: 150px;
 // left: 0;
 // padding: 10px;
@@ -91,6 +99,8 @@ img {
 // color: #fff;
 // font-size: 24px;
 // }
+
+//margin: 0 auto -142px;
 
 .csl-bib-body {
   font-size: 20px !important;
