@@ -8,11 +8,9 @@ weight = 10
 
 ## Accessible Zaragoza 
 
-**Action-research** project on urban mobility aimed to create a collaborative map to increase people with disabilities' autonomy. 
-
 {{% note %}}
 
-“Accessible Zaragoza”, an **action-research** project on urban mobility aimed to create a collaborative map to increase people with disabilities’ autonomy which I designed and led while **working as a lecturer** at Universidad San Jorge in Spain. 
+“Accessible Zaragoza”, an **action-research** project on urban mobility which I designed and led while **working as a lecturer** at Universidad San Jorge in Spain. 
 
 {{% /note %}}
 

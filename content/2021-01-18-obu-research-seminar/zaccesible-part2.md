@@ -207,7 +207,7 @@ You'd be surprised about how rudimentary (yet efficient) our methods were.
 
 {{< slide template="bg-dark" background-image="/img/osm/streetcomplete-02.png" background-opacity="0.8" background-size="contain">}}
 
-<div style="position:fixed; bottom:0; background-color:rgba(0, 0, 0,.8); font-size:75%; padding:0 20px"><a href="https://github.com/westnordost/StreetComplete">Streetcomplete</a> (App para Android)</div>
+<div style="position:fixed; bottom:0; background-color:rgba(0, 0, 0,.8); font-size:75%; padding:0 20px"><a href="https://github.com/westnordost/StreetComplete">Streetcomplete</a> (Android App)</div>
 
 
 ---

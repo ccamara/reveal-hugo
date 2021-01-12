@@ -79,11 +79,13 @@ I pursue a positive impact on people’s lives through the shaping of physical a
 
 {{% note %}}
 
-After having been involved in plenty of diverse jobs, researches and initiatives, I came to the conclusion that I what I was doing is pursuing...
+My name is Carlos Cámara and previously to joining brookes four months ago, I have been involved in plenty of diverse jobs, researches and initiatives, and I came to the conclusion that I what all of them had in common the pursue...
+
+(next frag)
 
 In order to do so, I have focused on...
 
-In this talk I will talk about two projects that have two things in common. (next)
+In this talk I will talk about two projects that have two things in common. (NEXT)
 
 {{% /note %}}
 

@@ -70,7 +70,7 @@ Source: [osmstats.neis-one.org](https://osmstats.neis-one.org/)
 
 * API that can be queried to download (spatial) data ([Overpass Turbo](https://overpass-turbo.eu/))
 * 3D Buildings ([F4 Maps](https://demo.f4map.com/))
-* Smartphones Apps ([StreetComplete]())
+* Smartphones Apps ([StreetComplete](https://play.google.com/store/apps/details?id=de.westnordost.streetcomplete&hl=en_US&gl=US))
 * Advanced editors
 * ...
 
