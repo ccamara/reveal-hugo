@@ -67,7 +67,7 @@ Since I joined Brookes very recently and I do not have the pleasure to know you,
 <!-- {{< slide template="bg-dark" id="me" background-image="/img/about-me/talk-urban-accessibility.jpg" background-position="center" background-opacity="0.6" >}} -->
 <!-- {{< slide template="bg-dark" id="me" background-image="/img/about-me/aragon-tv-carlos.jpg" background-position="center" background-opacity="0.6" >}} -->
 
-<small>Architect. PhD Urban Sociology. Researcher. Activist. Long-life learner.</small>
+<small>Architect. PhD Urban Sociology. Researcher. Activist. Life-long learner.</small>
 
 ## Carlos Cámara Menoyo
 

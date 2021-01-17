@@ -8,11 +8,11 @@ weight = 20
 
 (Interval)
 
-## OpenStreetMap
+## OpenStreetMap (OSM)
 
 {{% note %}}
 More specifically, this principle led us to use OSM, which would become a key decision that influenced all the project.
-For that reason, I am going to make a brief interval and explain what OSM is, so the rest of the presentation will be clearer.
+For that reason, I am going to make a brief break and explain what OSM is, so the rest of the presentation will be clearer.
 {{% /note %}}
 
 ---
@@ -21,14 +21,14 @@ For that reason, I am going to make a brief interval and explain what OSM is, so
 
 (Interval)
 
-## OpenStreetMap
+## OpenStreetMap (OSM)
 
 AKA _"The Wikipedia of the maps"_
 
-* **Collaborative approach** (data gathering, governance)
-* **Data Sharing** (legally + technically): social return
+**OSM is the biggest and most precise free/libre spatial database of the world**
 
-**OSM is the biggest and most precise free/lbre spatial database of the world**
+* **Collaborative approach** (data, governance)
+* **Data Sharing** (legally + technically): social return
 
 ---
 
@@ -47,6 +47,9 @@ This is what we seen when we visit openstreetmap.org. A regular map. Nothing spe
 
 <div style="position:fixed; bottom:0; background-color:rgba(0, 0, 0,.8); font-size:75%; padding:0 20px">But, in fact, there is much more that what we see! It is a (collaborative) spatial database</div>
 
+{{% note %}}
+But it is much more than that! This is what we see when we edit the same place. As you can see, not only we can add, modify the geometry or add information, but there is much more information than that displayed on the map. This is because it is actually a geospatial database from where we can get and display any information as we want.
+{{% /note %}}
 
 ---
 
@@ -54,15 +57,20 @@ This is what we seen when we visit openstreetmap.org. A regular map. Nothing spe
 
 ## Worldwide community
 
-* ~5.4 millions of registered users
+* ~7 million registered users (2020-11-23)
   - (~ 100 editing daily in Spain)
-* ~ 4.500 milion nodes
+* ~ 6.5 billion nodes (2020-11-23)
   - (20.000 - 30.000 created every day in Spain)
 * Data under Open Database License (ODbL)
 
-Source: [osmstats.neis-one.org](https://osmstats.neis-one.org/)
+Source: [OSM Wiki](https://wiki.openstreetmap.org/wiki/Stats)
 
----
+{{% note %}}
+In addition to being a spatial database it is also a community of people who regularly contribute to the map. I will not dive in to details, but at this point what it is important to know is that it is a worldwiide community and it is very big (huge!).
+{{% /note %}}
+
+
+<!-- ---
 
 {{< slide background-image="/img/osm/overpass-turbo-accesibilidad.png" background-opacity="0.6" background-position="top">}} 
 
@@ -72,7 +80,7 @@ Source: [osmstats.neis-one.org](https://osmstats.neis-one.org/)
 * 3D Buildings ([F4 Maps](https://demo.f4map.com/))
 * Smartphones Apps ([StreetComplete](https://play.google.com/store/apps/details?id=de.westnordost.streetcomplete&hl=en_US&gl=US))
 * Advanced editors
-* ...
+* ... -->
 
 <!-- ---
 
@@ -87,7 +95,7 @@ Source: [osmstats.neis-one.org](https://osmstats.neis-one.org/)
 </ul> -->
 
 
----
+<!-- ---
 
 {{< slide template="bg-dark" background-image="/img/osm/osm_maps_slow.gif" background-opacity="0.8">}}
 
@@ -95,7 +103,7 @@ Although, in fact...
 
 ## There are plenty of maps
 
-<div style="position:fixed; bottom:0; background-color:rgba(0, 0, 0,.8); font-size:75%; padding:0 10px 0">There are many maps reading data from OSM that are outside https://openstreetmap.org!</a>
+<div style="position:fixed; bottom:0; background-color:rgba(0, 0, 0,.8); font-size:75%; padding:0 10px 0">There are many maps reading data from OSM that are outside https://openstreetmap.org!</a> -->
 
 
 {{% /section %}}

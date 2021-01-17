@@ -20,10 +20,10 @@ weight = 10
 
 ## The problem(s)
 
-People with disabilities cannot be fully autonomous when moving within a city <br> <small>(especially in a foreighn city).</small>
+People with disabilities cannot be fully autonomous when moving within a city <br> <small>(especially in a foreign city).</small>
 
 {{% fragment %}}
-Two types of exclusion:
+Facing several types of exclusion, i.e.:
 
 * **Physical**: urban design
 * **Technological**: (lack of) specialized apps/services
@@ -35,7 +35,9 @@ Two types of exclusion:
 
 The problem we wanted to address was that people with...
 
-This, in turn, translates into two types of exclusion. (NEXT) 
+This is because people with disabilities have to face with multiple types of exclusion that include **social barriers**, **Signs/symbols**, **regulations**/other people's **behaviour** etc? 
+
+But we wanted to address two types of exclusion. (NEXT) 
 
 A physical one, due to urban design and a technological one, due to lack of specific apps and services
 

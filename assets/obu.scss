@@ -50,7 +50,24 @@ img {
   border: none !important;
 }
 
-// Custom sections.
+// Custom slides.
+.portada {
+  .borders {
+    background: rgba(255,255,255,.7);
+    border-bottom-width: 10px !important;
+    border-top-width: 10px !important;
+    border-color: #383D3D !important;
+    border-bottom-style: solid !important;
+    border-top-style: solid !important;
+    // padding: 60px 60px 5px 60px;
+    padding: 30px 60px;
+    min-height: 500px;
+    p {
+      vertical-align: middle;
+    }
+  }
+}
+
 .authors {
   font-size: 65% !important;
   position: fixed;
@@ -61,7 +78,7 @@ img {
   padding: 10px;
 }
 
-.pink {
+.pink, .bg-dark {
   a {
     color: white !important;
     text-decoration: underline !important;
@@ -73,6 +90,26 @@ img {
 		color: #fff !important;
     text-shadow: rgba(0, 0, 0, 0.4) 0px 3px 3px !important;
 	}
+}
+
+
+section.image-right {
+  ul {
+    position: absolute;
+    left: 25%;
+    width: 50%;
+  }
+  img {
+    position: absolute;
+    right: 25%;
+  }
+}
+
+section.two-cols {
+  .column {
+    float: left;
+    width: 50%;
+  }
 }
 
 .bg-caption {
@@ -114,22 +151,8 @@ img {
 
 }
 
-.portada {
-  .borders {
-    background: rgba(255,255,255,.7);
-    border-bottom-width: 10px !important;
-    border-top-width: 10px !important;
-    border-color: #383D3D !important;
-    border-bottom-style: solid !important;
-    border-top-style: solid !important;
-    // padding: 60px 60px 5px 60px;
-    padding: 30px 60px;
-    min-height: 500px;
-    p {
-      vertical-align: middle;
-    }
-  }
-}
+
+
 
 .big-table {
     table {
