@@ -120,7 +120,9 @@ Ackowledge that there are different types of disabilities and each has it's own 
 ### Be objective
 
 {{% note %}}
-We would describe reality as objectively as possible. E.g. We would describe if there is a tactile_paving, the existence of traffic lights with accouistic signals, the existence of kerbs (And if so, we would note their height), the width of pavement, it's incline and smoothness... the presence of ramps, stairs...
+As opposed to similar projects that focus only on problems, we would be looking for objective data describing the realiy. 
+
+E.g. We would describe if there is a tactile_paving, the existence of traffic lights with accouistic signals, the existence of kerbs (And if so, we would note their height), the width of pavement, it's incline and smoothness... the presence of ramps, stairs...
 {{% /note %}}
 
 {{% /section %}}
@@ -162,7 +164,7 @@ We used twwo different methods of fieldwork
 
 {{< slide template="bg-dark" background-image="/img/zaccesible/pavimento tactil-bordillo.jpg" background-opacity="0.8">}}
 
-### 1. Fieldwork made by research assistants (USJ)
+### A. Fieldwork made by research assistants (USJ)
 
 <small>Thanks to **César Canalís** (2016-17), **Lourdes Pérez** (2016-17) and **Javier Claver** (2018-2019)!</small>
 
@@ -180,7 +182,7 @@ The most conventional way to get the data was through the fieldwork made by rese
 
 {{{< slide template="bg-dark" background-image="/img/zaccesible/_aragon22507930_a4c24fc0.jpg" background-opacity="0.6">}}
 
-### 2. Mapping parties
+### B. Mapping parties
 
 Festive events for data gathering, learning and raising awareness
 
