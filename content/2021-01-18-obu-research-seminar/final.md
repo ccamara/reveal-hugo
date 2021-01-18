@@ -5,7 +5,7 @@ weight = 100
 
 {{% section %}}
 
-{{< slide template="bg-dark" background-image="/img/thanks/raj-thank-you-once.gif" background-position="bottom" background-opacity="0.8">}}
+{{< slide id="thanks" template="bg-dark" background-image="/img/thanks/raj-thank-you.gif" background-position="bottom" background-opacity="0.8">}}
 
 <!-- {{< slide template="bg-dark" background-image="/img/thanks/thanks-brad-pitt-loop-once.webp" background-opacity="0.8">}} -->
 
