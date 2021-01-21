@@ -147,6 +147,15 @@ which, coincidentaly, are the topics covered by the two projects.
   * Visualizatons: Dashboards, reports, slides
 * R: `tidyverse`, `leaflet`, `tmap`, `plotly`, `flexdashboard`, `shiny`
 
+---
+
+Looking forward to apply best pracices
+
+* Reproducible research
+  * Packages
+  * Dependencies (environments or automagic)
+  * Documentation
+  * CI
 
 
 {{% /section %}}
