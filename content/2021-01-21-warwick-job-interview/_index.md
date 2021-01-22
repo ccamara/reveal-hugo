@@ -54,13 +54,6 @@ Creating Interfaces Research Project
 
 </div>
 
-
-{{% note %}}
-Thank you Tatiana for the invitation. 
-Since I joined Brookes very recently and I do not have the pleasure to know you, let me introduce myself before proceeding with the presentation.
-
-{{% /note %}}
-
 ---
 
 {{< slide template="highlighted" >}}
@@ -90,7 +83,7 @@ I pursue a positive impact on people’s lives through the shaping of physical a
 
 {{% note %}}
 
-My name is Carlos Cámara and previously to joining brookes four months ago, I have been involved in plenty of diverse jobs, researches and initiatives, and I came to the conclusion that I what all of them had in common the pursue...
+My name is Carlos Cámara and I have been involved in plenty of diverse jobs, researches and initiatives, and I came to the conclusion that I what all of them had in common the pursue...
 
 (next frag)
 
@@ -113,22 +106,19 @@ In this talk I will talk about two projects that have two things in common. (NEX
 
 {{% note %}}
 
-The first one is mobility, which is not trivial aat all, especially... 
-which, coincidentaly, are the topics covered by the two projects.
+Mapeado colabora is an associaciation to promote the use of collaborative mapping throuch lectures, workshops and citizen science projects in collaboration with zaragoza's urban living lab.
 
 {{% /note %}}
 
----
-
-{{% section %}}
-
-{{< slide template="bg-dark" background-image="/img/about-me/github-profile.png" background-opacity="0.6">}}
-
-## Data Visualization and Web Developer
 
 ---
 
-### Web development
+{{< slide id="geek" class="two-cols" background-color="black" background-image="/img/about-me/github-profile.png" background-opacity="0.2" >}}
+
+
+### Web development & Data Viz
+
+{{% column %}}
 
 * Web developer in 2004 as self-taught, Freelance from 2007
 * CMS
@@ -137,17 +127,22 @@ which, coincidentaly, are the topics covered by the two projects.
 * Static Site Generators
   * Jekyll
   * Hugo 
+{{% /column %}}
 
----
-
-### Data visualization
+{{% column %}}
 
 * Started in 2015 for my PhD, self-taught
 * Used in own research + freelance
   * Visualizatons: Dashboards, reports, slides
-* R: `tidyverse`, `leaflet`, `tmap`, `plotly`, `flexdashboard`, `shiny`
+* R: 
+  * `tidyverse`, `leaflet`, `tmap`, `plotly`, `flexdashboard`, `shiny`
 
----
+{{% /column %}}
+
+
+{{% note %}} 
+
+I learnt web development by myself: I lack of formal training, but I am highly motivated.
 
 Looking forward to apply best pracices
 
@@ -158,7 +153,7 @@ Looking forward to apply best pracices
   * CI
 
 
-{{% /section %}}
+{{% /note %}}
 
 ---
 
@@ -166,6 +161,8 @@ Looking forward to apply best pracices
 
 * Transdisciplinar
   * Qualitative + Quantitative
+* Topics
+  * Urban studies, dataviz, concern with environment
 * Fast learner
 * Team person
   * Worked with computer scientists, environmentalists, geographers...
@@ -183,11 +180,22 @@ Looking forward to apply best pracices
 
 {{< slide template="highlighted" >}}
 
-## 1. Get to know the data
+## 1. Get to know the data & decide right visual
 
 
 * Data exploration
 * Asking the authors (you!)
+
+
+{{% note %}} 
+
+I have to be honest: I have looked at your website and regretfully I cannot get an idea of what kind of data have you been gathering nor what do you want to present in a website.
+
+The first thing is to get to know the data in order to decide the right visual: present points, lines, polygons, choropleth, flows, heatmaps, cartograms
+
+
+{{% /note %}}
+
 
 ---
 
@@ -195,7 +203,7 @@ Looking forward to apply best pracices
 
 {{< slide template="highlighted" >}}
 
-## 2. Choose the right visuals
+## 2. Choose the right solution
 
 <!-- ---
 
@@ -256,10 +264,6 @@ Custom base maps (Mapbox)
 
 ### Slides
 
-
----
-
-### Page with widgets (Hugo)
 
 ---
 
