@@ -248,7 +248,7 @@ Custom base maps (Mapbox)
 
 {{< slide template="highlighted" >}}
 
-## 3 Choose the right format
+## 3 Choose the right medium
 
 ---
 
@@ -327,6 +327,11 @@ Online version: https://ccamara.shinyapps.io/labs-interactive-map/
 ## 4. Managing the project
 
 Basically, a simplified version ~~parody~~ of SCRUM
+
+
+{{% note %}}
+Seeing your CV and experience, I am somewhat ashamed to try to summarise that much Scrum, but I hope I make my point clear.
+{{% /note %}}
 
 ---
 
