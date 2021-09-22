@@ -5,7 +5,7 @@ outputs = ["Reveal"]
 
 
 [reveal_hugo]
-custom_theme = "warwich-creating-interfaces.scss"
+custom_theme = "warwick-creating-interfaces.scss"
 custom_theme_compile = true
 plugins = ["plugin/gallery/gallery.plugin.js"]
 
