@@ -1,10 +1,11 @@
 +++
-weight = 1000
+weight = 10
 +++
 
 
-## Some examples...
+## Some examples
 
+Of different types of research tools
 
 ---
 

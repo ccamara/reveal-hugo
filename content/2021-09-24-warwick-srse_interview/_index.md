@@ -5,7 +5,7 @@ outputs = ["Reveal"]
 
 
 [reveal_hugo]
-custom_theme = "warwick-creating-interfaces.scss"
+custom_theme = "warwick-cim.scss"
 custom_theme_compile = true
 plugins = ["plugin/gallery/gallery.plugin.js"]
 
@@ -20,7 +20,7 @@ data-background-opacity = "0.3"
 
 [reveal_hugo.templates.highlighted]
 class = "highlighted-slide"
-background = "#34767A"
+background = "#666"
 data-background-opacity = "0.3"
 
 [reveal_hugo.templates.bibliographical-ref]
@@ -38,11 +38,11 @@ class = "portada"
 
 <div class="borders">
 
-<small>Demo for a Job Interview | 21st January 2021</small>
+<small>Demo for a Job Interview | 24th September 2021</small>
 
 <h2>An introduction to Research Tools</h2>
 
-An overview to the crucial questions: _what_, _why_, _when_ and _how_.
+A guided overview to its creation process
 
 
 <div class="authors">
@@ -120,13 +120,13 @@ Short answer:
 {{< slide template="bg-dark" background-image="/img/questions/travolta-question-1.gif" background-position="center" background-opacity="0.7" >}}
 
 
-{{% fragment %}} Why do we want science to be reproducible? {{% /fragment %}}
+Why do we want science to be reproducible?
 
 ---
 
 
 
-{{< slide background-color="#fff" background-image="https://imgs.xkcd.com/comics/the_difference.png" background-position="85% 60%" background-size="300px">}}
+{{< slide background-color="#fff" background-image="https://imgs.xkcd.com/comics/the_difference.png" background-position="85% 60%" background-size="500px">}}
 
 
 <!-- ![](https://imgs.xkcd.com/comics/the_difference.png) -->
@@ -135,8 +135,9 @@ Short answer:
 
 Embedded in science's core values: 
   
-* Transparent, 
-* Traceable, 
+* Transparent
+* Traceable 
+* Replicable
 * Useful
 
 {{% note %}}
@@ -163,14 +164,24 @@ Embedded in science's core values:
 
 ### Is it for me?
 
-{{% fragment %}} Definitely! Your research will benefit from it + you do not need to be a coding expert (although it helps + you will become one){{% /fragment %}}
+{{% fragment %}} Definitely! It doesn't depend on: 
+
+* Your research expertise/level
+    * Student <-> Senior researcher
+* Your background or field of knowledge
+    * Digital media, Urban analytics...
+* Your coding skills (but you'll learn by doign)
+
+**Your work will benefit from it.**
+
+{{% /fragment %}}
+
+
 
 {{% note %}}
 There are many different types of research tools, some of which do not require you coding skills
 
 {{% /note %}}
-
-
 
 ---
 

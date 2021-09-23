@@ -1,8 +1,17 @@
 +++
-weight = 10
+weight = 1000
 +++
 
+{{< slide template="highlighted" >}}
 
-## Some examples...
+## Lessons learnt:
 
-(Made by myself)
+1. What research tools are and why are so important, **even for you!**
+2. How a research tool may look like.
+3. An overview of what we will be covering in future sessions.
+
+---
+
+{{< slide template="bg-dark" background-image="/img/questions/obama1.gif" background-position="center" background-opacity="0.7" >}}
+
+# Questions?

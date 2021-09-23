@@ -4,16 +4,75 @@ weight = 20
 
 {{< slide template="bg-dark" background-image="https://www.carloscamara.es/en/project/eskola-bideapp/gallery/photo_2021-03-02_11-04-11.jpg" background-position="center" background-opacity="0.7" >}}
 
-Case Study:
+Learn by example:
 
 ## Eskola Bideapp
 
 Designing and assessing routes to increase children's autonomy, health and welbeing while going to school
 
+{{% note %}}
+
+Now that we know what research tools are, why are they so important and how can they look like
+
+We are going to focus on a study case and get some lessons from it.
+
+Eskolabideapp 
+
+{{% /note %}}
 
 ---
 
 {{% section %}}
+
+## What problems does it solve?
+
+---
+
+{{< slide class="two-cols"  >}}
+
+<div class="column">
+
+<ul>
+  <li><b>Communication</b>: Generates easy to understand visualisations for children, policy-makers and researchers</li>
+  <ul>
+    <li>Promotes discussion/learning</li>
+    <li>Promotes data-literacy at school</li>
+  </ul>
+</ul>
+</div>
+
+<div class="column">
+  <div><img src="/img/eskola-bideapp/app/eskolabideapp-dashboard-page-edit.png" ></div>
+  <div style="font-size:12px">An interactive dashboard (Shinny App) showing questionnaire's responses</div>
+</div>
+
+
+---
+
+{{< slide class="two-cols"  >}}
+
+<div class="column">
+
+<ul>
+  <li><b>Impacts' Assessment</b>: Researchers wanted to assess behaviour changes after their work with children.</li>
+</ul>
+</div>
+
+<div class="column">
+  <img src="img/assessment.png" style="float:right;width:400px">
+</div>
+
+
+---
+
+
+* **Replicability:** the same study was to be performed in several schools in different cities. 
+  * From several days to a matter of minutes.
+  * Now it can be applied to any city and any school in the world.
+
+{{% /section %}}
+
+---
 
 ## What it does
 
@@ -24,122 +83,215 @@ Designing and assessing routes to increase children's autonomy, health and welbe
 
 Creates visualisations and reports used to design and assess walk to school routes in order for children to walk on their own to their schools.
 
-{{% /note %}}
-
 
 <!-- https://mermaid-js.github.io/mermaid-live-editor/edit/#eyJjb2RlIjoiZmxvd2NoYXJ0IExSXG5BW0Rvd25sb2FkIHF1ZXN0aW9ubmFpcmUncyBhbnN3ZXJzXSAtLT4gRE1cblxuc3ViZ3JhcGggRE1bRGF0YSBtYW5pcHVsYXRpb25dXG5kaXJlY3Rpb24gVEJcbkJbUmVuYW1lIHZhcmlhYmxlc10gLS0-IENbSW50ZWdyaXR5IGNoZWNrXVxuQyAtLT4gRFtGb3JtYXR0aW5nXVxuRCAtLT4gRVtHZW9jb2RlXVxuZW5kXG5ETSAtLT4gREVcblxuc3ViZ3JhcGggREVbRGF0YSBFeHBvcnRdXG4gICAgZGlyZWN0aW9uIFRCXG4gICAgICAgIEV4cG9ydCAtLT4gQ1NWXG4gICAgICAgIEV4cG9ydCAtLT4gR1BLR1xuZW5kXG5cbkRFICAtLT4gREFcblxuc3ViZ3JhcGggREFbRGF0YSBBbmFseXNpc11cbmRpcmVjdGlvbiBUQlxuQW5hbHlzaXMgLS0-IEZbU3VtbWFyeSBzdGF0aXN0aWNzXVxuQW5hbHlzaXMgLS0-IEdbRGlzdGFuY2UgbWF0cmljZXNdXG5lbmRcblxuXG5EQSAtLT4gRFZcblxuc3ViZ3JhcGggRFZbRGF0YSBWaXN1YWxpc2F0aW9uXVxuZGlyZWN0aW9uIFRCXG5cblxuVHlwZXMgLS0-IE1hcHNcblR5cGVzIC0tPiBCYXJwbG90c1xuVHlwZXMgLS0-IFRhYmxlc1xuXG5cblxuXG5NZWRpdW0gLS0-IFNsaWRlc1xuTWVkaXVtIC0tPiBEYXNoYm9hcmRcbk1lZGl1bSAtLT4gUmVwb3J0c1tSZXBvcnRzIE1TIFdvcmRdXG5cbmVuZCIsIm1lcm1haWQiOiJ7XG4gIFwidGhlbWVcIjogXCJuZXV0cmFsXCJcbn0iLCJ1cGRhdGVFZGl0b3IiOmZhbHNlLCJhdXRvU3luYyI6dHJ1ZSwidXBkYXRlRGlhZ3JhbSI6ZmFsc2V9 -->
 
---- 
 
-Requirements
+{{% /note %}}
 
-* Reproducible: it should be used in different schools and cities. Outputs should be independent at city level and school level.
+
+---
+
+<!-- {{< slide template="highlighted" >}} -->
+{{< slide template="bg-dark" background-image="https://wallpapertag.com/wallpaper/full/a/4/9/693205-fairy-tale-wallpaper-1920x1080-for-meizu.jpg" background-position="center" background-opacity="0.4" >}}
+
+
+## The process: ~~a fantasy tale~~ an overview*
+
+<small>*For teaching purpose only: actually, it is never so linear.<br>
+Also, each topic could be developed in one or more sessions.</small>
+
+---
+
+{{< slide template="bg-dark" background-image="https://www.unthsc.edu/graduate-school-of-biomedical-sciences/wp-content/uploads/sites/13/requirements.jpg" background-position="center" background-opacity="0.25" >}}
+
+## Define requirements
+
+* Replicability
 * Multilingual: Spanish + Euskara
 * It should be edited/manipulated by someone who does not know R, nor very IT proficient
-* Should be understandable for children and policy makers (data literacy)
-* Sensitive data: no datasets are stored within the repo.
+* Should be understandable for children and policy makers
+
+{{% note %}}
+
+Have a clear overview of what the tool has to do and how has to do it.
+
+* Either because you know your research well or defining it with colleagues.
+
+{{% /note %}}
+
+
+---
+
+{{% section %}}
+
+{{< slide class="two-cols" >}}
+
+## Use a VCS*
+
+<div class="column">
+<p><a href="https://git-scm.com/">Git</a> tracks changes in every file within the project over time.</p>
+<ul>
+  <li>You can see what, when, who has changed</li>
+  <li>You can go back in time</li>
+  <li>You can save your work without affecting stability (branches, PR)</li>
+</ul>
+</div>
+
+<div class="column">
+  <img src="img/git_graph.png" style="float:right;width:400px">
+</div>
+
+<small>* Version Control System</small>
+
+---
+
+{{< slide class="two-cols" >}}
+
+### Bonus:Use an external repository 
+(github, gitlab...)
+
+
+<div class="column">
+<ul>
+  <li>You always have multiple backup copies</li>
+  <li>Enhances discoverability and collaboration</li>
+  <li>Extra features: CI, issues...</li>
+</ul>
+</div>
+
+<div class="column">
+  <img src="img/EskolaBideApp_repo.png" style="float:right;width:400px">
+</div>
+
+
+{{% /section %}}
 
 ---
 
 
-Some key features
+{{< slide class="two-cols"  >}}
 
-* Different visualisations formats/outputs
-* Geocoding based on questionnaire
+
+## Be organised
+
+<small>Use a clear, known files/folders structure (probably using a template/boilerplate).</small>
+
+<div class="column">
+
+<ul>
+  <li><code>Readme</code> file</li>
+  <li><code>/R</code>: where all functions will be located.</li>
+  <li><code>/data</code>: where all data is stored</li>
+  <li><code>/docs</code>: where all documentation is stored</li>
+</ul>
+</div>
+
+<div class="column">
+  <img src="img/file_structure2.png">
+</div>
+
 
 {{% note %}}
+
+Folder and files' structure is important to find information and for others to collaborate.
 
 {{% /note %}}
 
 ---
 
-* Multilingual (Spanisk, Euskara)
+{{< slide class="two-cols"  >}}
 
----
+## Start Coding
 
-Visualisations:
+<div class="column">
 
-Visualisation types:
+<ul>
+  <li>Divide & conquer: pick a feature and develop one at a time</li>
+  <li>Avoid repetition vs re-usability:</li>
+  <ul>
+    <li>control flow (conditionals, loops...)</li>
+    <li>functions/objects</li>
+  </ul>
+  <li>Start now, improve later</li>
+  <ul>
+    <li>Files organisation</li>
+    <li>Function</li>
+  </ul>
+</ul>
+</div>
 
-* Horizontal barplot (function + results) (sharing theme, multilingual)
-* Summaries' tables
-* Maps
-  * Isochrones
-  * Heatmaps
-* 
-
-Visualisation formats
-
-* Interactive dashboard using shiny
-* Slides to show at school
-* Microsoft Word reports aimed to policy makers
-
-{{% /section %}}
+<div class="column">
+  <img src="img/code.png">
+</div>
 
 ---
 
 {{% section %}}
 
-{{< slide template="bg-dark" background-image="http://1.bp.blogspot.com/_iEKwH1xBoGE/TGNiR6-kauI/AAAAAAAAADs/K89ZlrwamnA/s1600/Anatomy_3.jpg" background-position="center" background-opacity="0.7" >}}
+{{< slide class="two-cols"  >}}
+
+## Document everyhing
+
+<small>Do it for the others and for your future self!</small>
 
 
-## Anathomy of the tool
+<div class="column">
 
-Folder and files' structure is important to find information and for others to collaborate.
+<div style="text-align:left">Write exhaustive documents about:
+  <ul>
+  <li>important/confusing parts of the process (installation, workflow, contributing guides)</li>
+  <li>functions</li>
+  </ul>
+ </div>
+
+</pre>
+
+</div>
+
+
+<div class="column">
+  <div><img src="img/documentation.png" ></div>
+  <div style="font-size:10px!important">Documentation website for eskolabideapp package</div>
+</div>
 
 ---
 
-{{< slide template="bg-dark" background-image="img/EskolaBideApp_readme.png" background-position="center" background-opacity="0.7" >}}
+{{< slide class="two-cols"  >}}
 
-### Readme file
+### Integrated documentation
 
-* Project description
-* Installation instructions
-* Badges and links
+<div class="column">
+<img src="img/carbon_code.png" style="float:right;width:400px">
+
+<small>Comment every function...</small>
+
+</pre>
+
+</div>
+
+
+<div class="column">
+  <img src="img/function_documentation.png" style="float:right;width:400px">
+  <small>...to generate a nice website with documentation (with <code>pkgdown</code>)</small>
+</div>
+
+{{% /section %}}
 
 ---
 
-Other
+## Make sure it always work
 
-* `Contributing.md`: instructions on how to collaborate
-* `Licence`: specifying what can and cannot be done with the software and under which conditions.
+<img src="img/dependencies.png" style="float:right;width:400px">
 
+* Manage dependencies
+  * `automagic`
+  * `renv`
+* Automated testing
+* Reproduce environment
+  * `docker`
 
-{{% /section %}}
+---
 
---- 
+## Repeat, repeat
 
-{{% section %}}
-
-## Integrated documentation
-
-```R
-#' Geocodes and adds some random noise.
-#'
-#' @description Geocodes addresses centered in Bilbao and limited to Spain.
-#' @param addresses Vector or Dataframe's column containing addresses.
-#' @param filename A string that will be used to name the outputed filename
-#'   (without extension).
-#' @return A dataframe named \code{df.locations} with coordinates and more info.
-#' @examples
-#'
-bbk_geocode <- function(addresses, filename = "local.addresses.geocoded",
-                        foldername = "00_template") {
-
-  print("Sarting geocoding process, it may take a while...")
-  df.locations <- photon::geocode(paste(addresses, "España", sep = " "),
-                                  limit = 1,
-                                  locbias = c(-2.9546,43.2520))
-
-  # TODO: add some noise to resulting coordinates
-  write.csv(df.locations, file = here::here("cities", foldername,
-                                            "data/interim",
-                                            paste0(as.character(filename),
-                                                   ".csv")))
-
-  print("Geocoding process has ended.")
-  return(df.locations)
-}
-```
-
-{{% /section %}}
