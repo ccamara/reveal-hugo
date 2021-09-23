@@ -1,6 +1,6 @@
 +++
-title = "Reproducible Science and Research Tools. and why (and how) should you "
-description = "Demo for a Research Software Engineering job position"
+title = "An introduction to Research Tools"
+description = "A guided overview to its creation process"
 outputs = ["Reveal"]
 
 
