@@ -76,11 +76,19 @@ I hope it has the right balance of skillsets.
 
 ## Learning outcomes
 
+At the end of this session you will...
+
 1. **Know** what research tools are and why/when are they useful
 2. **Identify** types of research tools
 3. **Familiarise** with a real case of research tool and its creation process
 5. **Familiarise** with some technical concepts (`git`...)
 4. **Outline** a possible course of action for developing your research tool
+
+{{% note %}}
+
+At the end of this session you will...
+
+{{% /note %}}
 
 ---
 
@@ -88,7 +96,7 @@ I hope it has the right balance of skillsets.
 
 # What?
 
-What is a research software?
+What is a research tool?
 
 ---
 
@@ -126,7 +134,7 @@ Short answer:
 
 {{% section %}}
 
-{{< slide template="bg-dark" background-image="/img/questions/travolta-question-1.gif" background-position="center" background-opacity="0.7" >}}
+{{< slide template="bg-dark" background-image="/img/questions/travolta-question.gif" background-position="center" background-opacity="0.7" >}}
 
 
 Why do we want science to be reproducible?
