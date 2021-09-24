@@ -328,5 +328,8 @@ Some things to take into account when coding
 
 ---
 
-## Repeat, repeat
+{{< slide background-image="https://miro.medium.com/max/4540/1*oHRJUR1OMrlsbjrddff0MA.png" background-position="center" background-size="contain" background-opacity="0.5" >}}
+
+
+## Iterate & improve
 
