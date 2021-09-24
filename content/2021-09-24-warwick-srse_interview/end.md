@@ -15,3 +15,9 @@ weight = 1000
 {{< slide template="bg-dark" background-image="/img/questions/obama1.gif" background-position="center" background-opacity="0.7" >}}
 
 # Questions?
+
+{{% note %}}
+
+I will be happy to answer any question you may have.
+
+{{% /note %}}
