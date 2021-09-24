@@ -56,8 +56,17 @@ A guided overview to its creation process
 
 {{% note %}}
 
-I have designed this session trying to address your request + showcase some things I've done.
-Given the time I'm given this is an introductory session which aims to give an overview of Research tools and learn by example.
+I have designed this session as an introduction to research tools.
+
+Also, since it is my understanding that CIM students may have very different programming knowledge,
+
+It has two parts: 
+1. an introductory part where no prior knowledge is required 
+2. 2nd part aimed to learn by example which provides a more technical overview. 
+
+Due to time constraints I won't be able to further develop it, but each topic could be developed in one or more sessions. 
+
+I hope it has the right balance of skillsets.
 
 {{% /note %}}
 
@@ -162,6 +171,8 @@ Embedded in science's core values:
 
 --- 
 
+<small>I'm a student of Digital Media and Culture, not an experienced researcher in Urban Analytics...</small>
+
 ### Is it for me?
 
 {{% fragment %}} Definitely! It doesn't depend on: 
@@ -172,14 +183,14 @@ Embedded in science's core values:
     * Digital media, Urban analytics...
 * Your coding skills (but you'll learn by doign)
 
-**Your work will benefit from it.**
+**Either way, your research will benefit from it.**
 
 {{% /fragment %}}
 
 
 
 {{% note %}}
-There are many different types of research tools, some of which do not require you coding skills
+At this point, you may be wondering if this is something useful for a student of digital media and culture or is something for more experienced researchers in urban analyitcs.
 
 {{% /note %}}
 

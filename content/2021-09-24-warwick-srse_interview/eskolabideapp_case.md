@@ -101,22 +101,38 @@ Creates visualisations and reports used to design and assess walk to school rout
 <small>*For teaching purpose only: actually, it is never so linear.<br>
 Also, each topic could be developed in one or more sessions.</small>
 
+{{% note %}}
+
+Now that we know what the tool does and why does it do it...
+
+I'm going to give an overview of the creation process to introduce you with the topics we'll be covering in future sessions.
+
+Of course, reality is more complex than this and it is seldom so linear.
+
+{{% /note %}}
+
+
+
 ---
 
 {{< slide template="bg-dark" background-image="https://www.unthsc.edu/graduate-school-of-biomedical-sciences/wp-content/uploads/sites/13/requirements.jpg" background-position="center" background-opacity="0.25" >}}
 
 ## Define requirements
 
+You have a clear understanding of what the tool has to do.
+
 * Replicability
 * Multilingual: Spanish + Euskara
-* It should be edited/manipulated by someone who does not know R, nor very IT proficient
+* It should be manipulated by peple who are not very IT proficient (no programming knowledge)
 * Should be understandable for children and policy makers
 
 {{% note %}}
 
-Have a clear overview of what the tool has to do and how has to do it.
+You have a clear understanding of what the tool has to do.
 
 * Either because you know your research well or defining it with colleagues.
+
+In this example we've seen how important it was to make it replicable, but there were other requirements, too.
 
 {{% /note %}}
 
@@ -177,24 +193,29 @@ Have a clear overview of what the tool has to do and how has to do it.
 
 <small>Use a clear, known files/folders structure (probably using a template/boilerplate).</small>
 
-<div class="column">
+<div class="column" style="font-size:90% !important">
+
+<p>At least the following content</p>
 
 <ul>
   <li><code>Readme</code> file</li>
-  <li><code>/R</code>: where all functions will be located.</li>
-  <li><code>/data</code>: where all data is stored</li>
-  <li><code>/docs</code>: where all documentation is stored</li>
+  <li>folder to store <b>functions</b></li>
+  <li>folder to store all <b>data</b></li>
+  <li>folder to store all <b>documentation</b></li>
 </ul>
 </div>
 
 <div class="column">
   <img src="img/file_structure2.png">
+  <div style="font-size:10px!important">EskolabideApp's file structure. We'll be covering the main files and folders in future sessions.</div>
 </div>
 
 
 {{% note %}}
 
 Folder and files' structure is important to find information and for others to collaborate.
+
+This is the structure of the tool. In future session we'll be covering what each file and folder does, but at least your tool should have the following content.
 
 {{% /note %}}
 
@@ -204,8 +225,8 @@ Folder and files' structure is important to find information and for others to c
 
 ## Start Coding
 
-<div class="column">
-
+<div class="column" style="font-size:80% !important">
+<p style="text-align:left">Some things to take into account when coding</p>
 <ul>
   <li>Divide & conquer: pick a feature and develop one at a time</li>
   <li>Avoid repetition vs re-usability:</li>
@@ -224,6 +245,18 @@ Folder and files' structure is important to find information and for others to c
 <div class="column">
   <img src="img/code.png">
 </div>
+
+
+{{% note %}}
+
+This image shows some code from the tool using R.
+
+R is the language programming that we will be using in this course and it is specially useful for researchers for many reasons.
+
+Some things to take into account when coding
+
+{{% /note %}}
+
 
 ---
 
@@ -251,7 +284,7 @@ Folder and files' structure is important to find information and for others to c
 
 
 <div class="column">
-  <div><img src="img/documentation.png" ></div>
+  <div><img src="img/documentation_workflow.png" ></div>
   <div style="font-size:10px!important">Documentation website for eskolabideapp package</div>
 </div>
 
@@ -262,7 +295,7 @@ Folder and files' structure is important to find information and for others to c
 ### Integrated documentation
 
 <div class="column">
-<img src="img/carbon_code.png" style="float:right;width:400px">
+<img src="img/carbon_code.png">
 
 <small>Comment every function...</small>
 
@@ -272,7 +305,7 @@ Folder and files' structure is important to find information and for others to c
 
 
 <div class="column">
-  <img src="img/function_documentation.png" style="float:right;width:400px">
+  <img src="img/function_documentation.png" >
   <small>...to generate a nice website with documentation (with <code>pkgdown</code>)</small>
 </div>
 
@@ -281,6 +314,8 @@ Folder and files' structure is important to find information and for others to c
 ---
 
 ## Make sure it always work
+
+<small>Today, in your computure, and tomorrow in other people's computer.</small>
 
 <img src="img/dependencies.png" style="float:right;width:400px">
 
