@@ -205,3 +205,12 @@ At this point, you may be wondering if this is something useful for a student of
 ---
 
 {{< slide background="img/research_soft_diagram-spectrum.svg" background-size="70%">}}
+
+
+{{% note %}}
+
+The good news is that there is not a single type of research tool. Instead a research tool may have different forms, ranging from more complex to less complex. So there is space for everyone here!
+
+some examples of "products" can be...
+
+{{% /note %}}
