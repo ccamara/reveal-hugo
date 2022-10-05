@@ -34,7 +34,7 @@ data-background-opacity = "0.3"
 
 +++
 
-{{< slide id="home"  template="home" background-image="img/background-zgz.png">}}
+{{< slide id="home"  template="home" background-image="/img/20180317banksy-6_156739964-copy.webp">}}
 
 <div class="borders">
 
@@ -107,11 +107,15 @@ Charla sobre crowdsorcing ciudadano
 
 ---
 
-{{% section %}}
+{{< slide template="bg-dark" background-image="https://assets1.domestika.org/project-covers/000/277/851/277851-original-animation004_00104.png" background-position="center" background-opacity="0.5" >}}
+
+
+
 
 ## Preámbulo
 
-Dejad que empieze con una provocación
+{{< frag c="Dejad que empieze con una provocación/caricaturización" >}}
+
 
 ---
 
@@ -157,17 +161,17 @@ La destaco porque, con toda la problemática que tiene, tiene dos de los tres in
 
 ## Datos y ciudades
 
-{{% /section %}}
 
 ---
 
-## Crowdsorcing
 
-Ciudadanía implicada. 
-Muchas maneras de entenderlo
+{{< slide template="bg-dark" background-image="/img/reuters-castellers.jpeg" background-position="center" background-opacity="0.6" >}}
 
-- No son meros sensores de datos (extractivismo) -> Ciudadanía implicada en la toma de datos, pero también en el diseño y la toma de decisiones
-- Para mi, lo importante es el conocimiento local, y la capacidad de mobilización ciudadana
 
-Ligarlo con el paper de Joao: Modes of engagement : reframing ‘sensing’ and data generation in citizen science for empowering relationships
+## Crowdsorcing ciudadano
+
+Muchas maneras de entenderlo. 
+
+
+Aquí lo entiendo como **colaboración abierta distribuida** entre **miembros de una comunidad**, para la **recogida, análisis y visualización de datos sobre aspectos concretos de la ciudad**
 
