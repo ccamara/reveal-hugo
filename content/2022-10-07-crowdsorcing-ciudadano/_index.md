@@ -189,11 +189,12 @@ Sobre todo porque tiene dos de los tres ingredientes de los que quiero hablar ho
 ## Datos y ciudades
 
 {{% note %}}
-- No sorprende que las políticas ciudadanas basadas en datos -> no son opinables, son rigurosas  
-- Nombres como 
+- No sorprende que cobren importancia las políticas urbanas basadas en datos  
+- O conceptos como 
   - Smart cities -> toma de datos para hacer ciudades más eficientes, más sostenibles...  
   	- Negocio: "$100 bilion jackpot" (Townsend 2013)  
 	- Digital Twins
+- no son opinables, son rigurosas, son científicas
 
 {{% /note %}}
 
@@ -208,6 +209,9 @@ Sobre todo porque tiene dos de los tres ingredientes de los que quiero hablar ho
 	- ¿Qué ocurre cuando no hay datos?  
 
 {{% note %}}
+
+Todo eso estaría muy bien si no fuera porque...
+
 Hoy quiero hablar de eso: de los datos que no importan a nadie, que no están en datasets oficiales, pero que, a mi entender, son potencialmente más importantes para las personas y las ciudades.  
 {{% /note %}}
 
@@ -223,4 +227,15 @@ Muchas maneras de entenderlo.
 
 
 Aquí lo entiendo como **colaboración abierta distribuida** entre **miembros de una comunidad**, para la **recogida, análisis y visualización de datos sobre aspectos concretos de la ciudad**
+
+{{% note %}}
+
+Me refiero a los datos que no provienen de instituciones, organismos oficiales o grandes transnacionales, sino de iniciativas de crowdsorcing ciudadano.
+
+{{% /note %}}
+
+---
+
+## Casos de estudio
+
 

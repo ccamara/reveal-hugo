@@ -9,6 +9,16 @@ weight = 100
 ## Ciudades, datos {{< frag c="y personas" >}}
 
 
+{{% note %}}
+
+Al principio he mencionado dos de los conceptos de los que quería hablar hoy: ciudadas y datos.
+El tercero, aunque no lo haya mencionado, espero que haya quedado claro: las personas.
+
+Porque las personas son lo que da sentido a lo demás.
+
+{{% /note %}}
+
+
 ---
 
 {{% section %}}

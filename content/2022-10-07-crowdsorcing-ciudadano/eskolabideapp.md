@@ -2,16 +2,6 @@
 weight = 40
 +++
 
-{{< slide background-image="img/dibujo-camino-cole.jpeg" background-opacity="0.8">}}
-
-{{% note %}}
-
-Este proyecto tiene mucho de esto: de los cambios entre los niños que van al colegio en coche o andando, acompañados de otros niños
-
-{{% /note %}}
-
----
-
 
 {{< slide id="eskola-bideapp" template="bg-dark" background-image="/img/eskola-bideapp/featured.jpg" background-opacity="0.8">}}
 
@@ -23,6 +13,23 @@ Este proyecto tiene mucho de esto: de los cambios entre los niños que van al co
 
 
 <small>Un proyecto de [Solasgune](https//solasgune.com)</small>
+
+{{% note %}}
+
+El segundo proyecto es eskola bideak, liderado por Solasgune, en el que participaron también distintos ayuntamientos de Euskadi y la Universidad del País Vasco.
+
+{{% /note %}}
+
+---
+
+{{< slide background-image="img/dibujo-camino-cole.jpeg" background-opacity="0.8">}}
+
+{{% note %}}
+Esta es una imagen que casualmente vi hace dos días en twitter.
+
+Este proyecto tiene mucho de esto: de los cambios entre los niños que van al colegio en coche o andando, acompañados de otros niños
+
+{{% /note %}}
 
 ---
 

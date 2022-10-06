@@ -9,6 +9,11 @@ weight = 20
 
 Mapeado colaborativo de accesibilidad urbana
 
+{{% note %}}
+El primer caso del que quiero hablar es Zaragoza Accesible, un proyecto de mapeado colaborativo de accesibilidad urbana liderado por la USJ y Mapeado colaborativo, en el que participaron numerosas organizaciones.
+
+{{% /note %}}
+
 <!--<img src="/img/usj/logo-usj-blanco.png" width="250px">  <img src="/img/mapcolabora-logo-horizontal.png" width="250px">-->
 
 ---
@@ -56,7 +61,7 @@ Lo importante no son estos dos mapas, ni tan siquiera la creación de mapas que 
 
 ## Mecanismos de toma de datos
 
-<ul class="gallery" data-iterations="1" data-interval="2" data-mode="full-screen">
+<ul class="gallery" data-iterations="1" data-interval="3" data-mode="full-screen">
   <li><img src="/img/zaccesible/IMG_20161203_102252.jpg" alt="2ª mapping party, junto discapacitados sin fronteras de Aragón"></li>
   <li><img src="/img/zaccesible/pavimento tactil-bordillo-02.jpeg" alt="Estudiantes de la USJ tomando datos de campo sobre bordillos y pavimento táctil. Foto: Héctor Ochoa"></li>
   <li><img src="/img/zaccesible/arrabal-02.png" alt="Mapping party in Arrabal (2016-07-05)"></li>
@@ -102,29 +107,50 @@ Lo importante no son estos dos mapas, ni tan siquiera la creación de mapas que 
 
 ---
 
+## Otros resultados
+
+(algunos inesperados)
+
+---
+
 {{% section %}}
 
 {{< slide class="bg-dark" >}}
 
 ## Concienciación
 
-<ul class="gallery" data-iterations="1" data-interval="2" data-mode="full-screen">
+<ul class="gallery" data-iterations="1" data-interval="3" data-mode="full-screen">
   <li><img src="/img/zaccesible/laura-moya-teaching.jpg" alt="Laura Moya (mundo Crip) y su perra guía, Geniva, explicando cómo las personas ciegas se mueven y orientan en la ciudad."></li>
   <li><img src="/img/zaccesible/IMG_20170324_104504.jpg" alt="Conchita Martínez, de Discapacitados Sin Fronteras, compartiendo su experiencia"></li>
 </ul>
+
+{{% note %}}
+
+Un aspecto destacable es que 
+Las mapping parties incluían jornadas de expertos, algunos de los cuales tenían algún tipo de discapacidad.
+
+{{% /note %}}
+
 
 
 ---
 
 {{< slide class="bg-dark" >}}
 
-<ul class="gallery" data-iterations="1" data-interval="2" data-mode="full-screen">
+<ul class="gallery" data-iterations="1" data-interval="2.5" data-mode="full-screen">
   <li><img src="/img/zaccesible/photo_2019-05-24_16-06-13.jpg" alt="Primera Mapping Party"></li>
   <li><img src="https://zaccesible.usj.es/img/IMG_20160520_101415_1.jpg" alt="Mapping Party"></li>
   <li><img src="/img/zaccesible/C7r5EDRXgAEvXVD.jpeg" alt="Segunda Mapping Party"></li>
   <li><img src="/img/zaccesible/mapping-party-arrabal.jpg" alt="Última mapping party, a petición de grupos locales"></li>
 </ul>
 
+{{% note %}}
+
+El resultado salta a la vista en la participación en las distintas mapping parties.
+
+La última no la organizamos nosotros.
+
+{{% /note %}}
 
 {{% /section %}}
 
@@ -135,8 +161,6 @@ Lo importante no son estos dos mapas, ni tan siquiera la creación de mapas que 
 {{< slide template="bg-dark" background-image="/img/zaccesible/IMG_20180323_113211.jpg" background-opacity="0.8">}}
 
 ##  Atención de los medios
-
-(resultado inesperado)
 
 <div class=bg-caption>Grabación en directo de una Mapping Party. Foto: Carlos Cámara.</div>
 
