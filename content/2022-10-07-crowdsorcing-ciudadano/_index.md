@@ -147,7 +147,7 @@ Sobre todo porque tiene dos de los tres ingredientes de los que quiero hablar ho
 
 ---
 
-{{< slide template="bg-dark" id="ciudades" background-image="img/data-new-oil.jpg" background-position="center" background-opacity="0.7" >}}
+{{< slide template="bg-dark" id="ciudades" background-image="img/nueva-agenda-urbana-foto.png" background-position="center" background-opacity="0.7" >}}
 
 ## Ciudades
 
@@ -206,7 +206,10 @@ Sobre todo porque tiene dos de los tres ingredientes de los que quiero hablar ho
 - Cabe, por tanto, plantearse lo siguiente:  
 	- ¿Quién decide qué datos deben tomarse? ¿Cómo se toman esos datos? ¿Qué tipo de datos se toman?  
 	- ¿Qué ocurre cuando no hay datos?  
-	- Hoy quiero hablar de eso: de los datos que no importan a nadie, que no están en datasets oficiales, pero que, a mi entender, son potencialmente más importantes para las personas y las ciudades.  
+
+{{% note %}}
+Hoy quiero hablar de eso: de los datos que no importan a nadie, que no están en datasets oficiales, pero que, a mi entender, son potencialmente más importantes para las personas y las ciudades.  
+{{% /note %}}
 
 ---
 

@@ -11,6 +11,8 @@ weight = 100
 
 ---
 
+{{% section %}}
+
 {{< slide  id = "Conclusiones" >}}
 
 ## Conclusiones
@@ -48,7 +50,7 @@ weight = 100
 
 > From one perspective, the production of data by citizens is associated with **empowerment**: digital technologies can enable citizens to **produce data that reflects alternative and counterhegemonic views of the world**, and thus lead to the opening up of more inclusive and polyvocal information spaces. (Porto de Albuquerque and Almeida 2020:268)
 
-
+{{% /section %}}
 
 ---
 

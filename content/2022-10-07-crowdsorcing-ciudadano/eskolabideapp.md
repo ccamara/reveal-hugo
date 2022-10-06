@@ -45,6 +45,10 @@ Este proyecto tiene mucho de esto: de los cambios entre los niños que van al co
 
 ---
 
+{{< slide template="bg-dark" background-image="/img/eskola-bideapp/app/eskolabideapp-dashboard-home.png" background-size="contain" background-opacity="0.8">}}
+
+---
+
 {{< slide template="bg-dark" background-image="/img/eskola-bideapp/slide-isocronas.png" background-size="contain" background-opacity="0.8">}}
 
 
@@ -55,12 +59,4 @@ Este proyecto tiene mucho de esto: de los cambios entre los niños que van al co
   <li><img src="/img/eskola-bideapp/school/photo_2021-01-23_19-23-37.jpg" alt="Photo: Julian Maguna" style="opacity:0.2;"></li>
   <li><img src="/img/eskola-bideapp/school/photo_2021-01-23_19-23-54.jpg" alt="Photo: Julian Maguna" style="opacity:0.2;"></li>
   <li><img src="/img/eskola-bideapp/school/photo_2021-03-02_11-04-11.jpg" alt="Photo: Julian Maguna" style="opacity:0.2;"></li>
-</ul>
-
----
-
-<ul class="gallery" data-iterations="0" data-interval="2.5" data-mode="full-screen">
-  <li><img src="/img/eskola-bideapp/app/eskolabideapp-dashboard-home.png" alt="Dashboard" style="opacity:0.2;"></li>
-  <li><img src="/img/eskola-bideapp/app/eskolabideapp-dashboard-page.png" alt="Dashboard" style="opacity:0.2;"></li>
-  <li><img src="/img/eskola-bideapp/app/photo_2021-01-29_15-56-46.jpg" alt="Slides" style="opacity:0.2;"></li>
 </ul>
