@@ -70,7 +70,7 @@ Interesado en cómo las ciudades pueden ser más sostenibles, vivibles e igulait
 <small>https://carloscamara.es | <i class="fab fa-twitter"></i>[@carlescamara](https://twitter.com/carlescamara)</small>
 
 ---
-
+<!-- 
 ## Preámbulo: Ciudades y datos
 
 Consenso:
@@ -90,10 +90,10 @@ Quiero plantear una aproximación que, si bien también tiene ciertas similudes,
 
 Mi charla se centrará en un tipo de visualizaciones 
 
----
+--- -->
 
 
-
+<!-- 
 ## Contenido
 
 Charla sobre crowdsorcing ciudadano
@@ -103,9 +103,8 @@ Charla sobre crowdsorcing ciudadano
   - Zaragoza Accesible
   - Eskola Bideak
   - Walkability (AI + un inicio de crowdsorcing)
-- Lecciones desde la práctica: otenciales y delimitaciones
+- Lecciones desde la práctica: otenciales y delimitaciones -->
 
----
 
 {{< slide template="bg-dark" background-image="https://assets1.domestika.org/project-covers/000/277/851/277851-original-animation004_00104.png" background-position="center" background-opacity="0.5" >}}
 
@@ -116,6 +115,11 @@ Charla sobre crowdsorcing ciudadano
 
 {{< frag c="Dejad que empieze con una provocación/caricaturización" >}}
 
+{{% note %}}
+Dejad que empieze con una provocación, con esta frase tan manida que odio y que estoy seguro de que todos hemos leído, oído o incluso dicho en algún momento de nuestras vidas:
+
+
+{{% /note %}}
 
 ---
 
@@ -129,9 +133,12 @@ Charla sobre crowdsorcing ciudadano
 {{< frag c="Ciudades" >}} {{< frag c="| Datos" >}}
 
 {{% note %}}
-Dejad que empieze con una provocación, con esta frase tan manida que odio y que estoy seguro de que todos hemos leído, oído o incluso dicho en algún momento de nuestras vidas:
 
-La destaco porque, con toda la problemática que tiene, tiene dos de los tres ingredientes de los que quiero hablar hoy:
+
+A pesar de toda la problemática que tiene, la destaco por varios motivos.
+
+
+Sobre todo porque tiene dos de los tres ingredientes de los que quiero hablar hoy:
 
 - Ciudades. NEXT Son importantes
 - No lo digo yo, no lo dicen unos activistas. Lo dice Naciones Unidas. Lo dicen los datos.
@@ -140,8 +147,19 @@ La destaco porque, con toda la problemática que tiene, tiene dos de los tres in
 
 ---
 
+{{< slide template="bg-dark" id="ciudades" background-image="img/data-new-oil.jpg" background-position="center" background-opacity="0.7" >}}
+
 ## Ciudades
 
+{{% note %}}
+- Vivimos en una era urbana
+- El otro motivo: esa cita de ONU ha dado pie a políticas urbanas como los objetivos de desarrollo sostenible, o la nueva agenda urbana
+  - Reconocen el papel de las ciudades en los desafíos globales
+- ¿cómo hacer frente a los nuevos retos?  
+	- Las ciudades no pueden ser planificadas únicamente desde la morfología urbana. El planeamiento tradicional, basado en zonificación, normativa o morfología urbana muestra limitaciones.  
+	- Nuevos instrumentos. Datos  
+
+{{% /note %}}
 
 ---
 
@@ -150,9 +168,18 @@ La destaco porque, con toda la problemática que tiene, tiene dos de los tres in
 
 ## Datos
 
----
+{{% note %}}
+- Vivimos en una era urbana donde los datos son ubicuos
+  - Todo está y debe estar cuantificado para la toma de decisiones.
+  - Los datos son importantes porque:  
+	- Cuantifican  
+	- Permiten comparar  
+	- Permiten entender mejor la realidad (en este caso, ciudades)  
 
-{{< slide template="bg-dark" background-image="https://urbanbigdata.github.io/01-lecture-intro/images/data_new_oil.png" background-position="center" background-opacity="0.7" >}}
+
+
+{{% /note %}}
+
 
 ---
 
@@ -161,6 +188,25 @@ La destaco porque, con toda la problemática que tiene, tiene dos de los tres in
 
 ## Datos y ciudades
 
+{{% note %}}
+- No sorprende que las políticas ciudadanas basadas en datos -> no son opinables, son rigurosas  
+- Nombres como 
+  - Smart cities -> toma de datos para hacer ciudades más eficientes, más sostenibles...  
+  	- Negocio: "$100 bilion jackpot" (Townsend 2013)  
+	- Digital Twins
+
+{{% /note %}}
+
+---
+
+### Pero...
+
+- Datos no son neutros y menos aún los análisis y las conclusiones que de ellos se desprenden
+  - La frase inicial reduce las ciudades a meros contenedores de población y las trata como algo homogéneo -> nada más lejos de la realidad  
+- Cabe, por tanto, plantearse lo siguiente:  
+	- ¿Quién decide qué datos deben tomarse? ¿Cómo se toman esos datos? ¿Qué tipo de datos se toman?  
+	- ¿Qué ocurre cuando no hay datos?  
+	- Hoy quiero hablar de eso: de los datos que no importan a nadie, que no están en datasets oficiales, pero que, a mi entender, son potencialmente más importantes para las personas y las ciudades.  
 
 ---
 

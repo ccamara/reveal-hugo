@@ -2,6 +2,17 @@
 weight = 100
 +++
 
+{{< slide template="bg-dark" background-image="/img/eskola-bideapp/school/photo_2021-03-02_11-04-11.jpg" background-opacity="0.8">}}
+
+
+
+## Ciudades, datos {{< frag c="y personas" >}}
+
+
+---
+
+{{< slide  id = "Conclusiones" >}}
+
 ## Conclusiones
 
 ---
@@ -28,14 +39,16 @@ weight = 100
 
 ---
 
-> From one perspective, the production of data by citizens is associated with **empowerment**: digital technologies can enable citizens to **produce data that reflects alternative and counterhegemonic views of the world**, and thus lead to the opening up of more inclusive and polyvocal information spaces. (Porto de Albuquerque and Almeida 2020:268)
-
----
-
 - Problemas
   - precariedad económica
   - procesos lentos/largos de iniciar
   - falta de escalabilidad y dificultad en la replicabilidad
+
+---
+
+> From one perspective, the production of data by citizens is associated with **empowerment**: digital technologies can enable citizens to **produce data that reflects alternative and counterhegemonic views of the world**, and thus lead to the opening up of more inclusive and polyvocal information spaces. (Porto de Albuquerque and Almeida 2020:268)
+
+
 
 ---
 
