@@ -18,6 +18,8 @@ El primer caso del que quiero hablar es Zaragoza Accesible, un proyecto de mapea
 
 ---
 
+{{% section %}}
+
 {{< slide background-iframe="https://ccamara.carto.com/viz/472c495c-6238-4fb5-851e-93b844bc647c/embed_map" >}}
 
 ## Resultado final
@@ -34,7 +36,7 @@ Lo importante no son estos dos mapas, ni tan siquiera la creación de mapas que 
 
 {{% /note %}}
 
-
+{{% /section %}}
 ---
 
 {{% section %}}

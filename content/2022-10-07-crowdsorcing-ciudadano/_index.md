@@ -113,7 +113,7 @@ Charla sobre crowdsorcing ciudadano
 
 ## Preámbulo
 
-{{< frag c="Dejad que empieze con una provocación/caricaturización" >}}
+<!-- {{< frag c="Dejad que empieze con una provocación/caricaturización" >}} -->
 
 {{% note %}}
 Dejad que empieze con una provocación, con esta frase tan manida que odio y que estoy seguro de que todos hemos leído, oído o incluso dicho en algún momento de nuestras vidas:
@@ -152,7 +152,6 @@ Sobre todo porque tiene dos de los tres ingredientes de los que quiero hablar ho
 ## Ciudades
 
 {{% note %}}
-- Vivimos en una era urbana
 - El otro motivo: esa cita de ONU ha dado pie a políticas urbanas como los objetivos de desarrollo sostenible, o la nueva agenda urbana
   - Reconocen el papel de las ciudades en los desafíos globales
 - ¿cómo hacer frente a los nuevos retos?  
