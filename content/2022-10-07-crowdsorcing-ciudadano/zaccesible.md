@@ -37,6 +37,7 @@ Lo importante no son estos dos mapas, ni tan siquiera la creación de mapas que 
 {{% /note %}}
 
 {{% /section %}}
+
 ---
 
 {{% section %}}
@@ -47,8 +48,8 @@ Lo importante no son estos dos mapas, ni tan siquiera la creación de mapas que 
 
 ¿Qué datos recopilamos?
 
-
 ---
+
 {{< slide template="bg-dark" background-image="/img/zaccesible/etiquetas-en-uso.png" background-opacity="0.8">}}
 
 
