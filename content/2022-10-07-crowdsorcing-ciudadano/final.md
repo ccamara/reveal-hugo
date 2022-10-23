@@ -64,4 +64,6 @@ Porque las personas son lo que da sentido a lo demás.
 
 ---
 
+{{< slide template="bg-dark" background-image="/img/20180317banksy-6_156739964-copy.webp">}}
+
 ## ¡Gracias!
